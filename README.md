@@ -1,2 +1,2 @@
 # contributions
-contributions to the UniEuk taxonomy (EukMap import files)
+community contributions to the UniEuk taxonomy (EukMap import files)
