@@ -1,0 +1,24 @@
+These are the 20 subtrees that were imported for release 1.0.0 (14 June 2021) and the full taxonomic pathway of the corresponding nodes:
+
+1.0.0-first_release-2021-06-14_subtree_CRuMs.tsv              Eukaryota;'CRuMs'
+1.0.0-first_release-2021-06-14_subtree_Ancoracysta.tsv        Eukaryota;Diaphoretickes;Ancoracysta
+1.0.0-first_release-2021-06-14_subtree_Rhodelphidia.tsv       Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodelphidia
+1.0.0-first_release-2021-06-14_subtree_Palpitomonas.tsv       Eukaryota;Diaphoretickes;Cryptista;Palpitomonas
+1.0.0-first_release-2021-06-14_subtree_Microheliella.tsv      Eukaryota;Diaphoretickes;Microheliella
+1.0.0-first_release-2021-06-14_subtree_nassophoreans.tsv      Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'CON3P';'nassophoreans'
+1.0.0-first_release-2021-06-14_subtree_Discotrichidae.tsv     Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'CON3P';Discotrichidae
+1.0.0-first_release-2021-06-14_subtree_Protocruziidae.tsv     Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae
+1.0.0-first_release-2021-06-14_subtree_Caenomorphidae.tsv     Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae
+1.0.0-first_release-2021-06-14_subtree_Kiitrichidae.tsv       Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae
+1.0.0-first_release-2021-06-14_subtree_Licnophoridae.tsv      Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae
+1.0.0-first_release-2021-06-14_subtree_Odontostomatida.tsv    Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida
+1.0.0-first_release-2021-06-14_subtree_Phacodinium.tsv        Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Phacodinium
+1.0.0-first_release-2021-06-14_subtree_Heterotrichea.tsv      Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea
+1.0.0-first_release-2021-06-14_subtree_Karyorelictea.tsv      Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea
+1.0.0-first_release-2021-06-14_subtree_Jakobida.tsv           Eukaryota;Discoba;Jakobida
+1.0.0-first_release-2021-06-14_subtree_Tsukubamonas.tsv       Eukaryota;Discoba;Tsukubamonas
+1.0.0-first_release-2021-06-14_subtree_Hemimastigophora.tsv   Eukaryota;Hemimastigophora
+1.0.0-first_release-2021-06-14_subtree_Malawimonadida.tsv     Eukaryota;Malawimonadida
+1.0.0-first_release-2021-06-14_subtree_Meteora.tsv            Eukaryota;Meteora
+
+They can be used as templates to generate similar import files for other taxa.
