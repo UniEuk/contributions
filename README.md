@@ -4,7 +4,7 @@ Welcome to the github repository for the EukMap import files to build the UniEuk
 
 You can find the tsv file corresponding to the current (latest) version of the full taxonomy in this root folder (0.0.1_pre-release_UniEuk_starting_taxonomy_2021-06-11.tsv).
 
-For the tsv files corresponding to all the subtrees imported since the initial starting taxonomy from 11 June 2021, go to curated_subtrees. This also the directory where users will be contributing new files.
+For the tsv files corresponding to all the subtrees imported since the initial starting taxonomy from 11 June 2021, go to curated_subtrees. This also the directory where users will be creating / uploading new files.
 
 For the tsv files corresponding to all previous releases of the taxonomy, go to previous_releases.
 
