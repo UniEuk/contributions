@@ -1,6 +1,6 @@
 # contributions
 
-Welcome to the "UniEuk contributions" GitHub repository to build the UniEuk taxonomy in [EukMap](https://eukmap.unieuk.org).
+Welcome to the "UniEuk contributions" GitHub repository to help building the UniEuk taxonomy in [EukMap](https://eukmap.unieuk.org).
 
 Detailed information about EukMap, the curation workflow that is being implemented for it, and how to currently contribute to the taxonomy (via this GitHub repository) can be found in the [Wiki](https://github.com/UniEuk/contributions/wiki).
 
