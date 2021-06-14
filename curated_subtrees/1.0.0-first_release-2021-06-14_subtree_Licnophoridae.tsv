@@ -1,0 +1,17 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae	family		Bütschli 1887		Licnophorida			single family Licnophoridae in order Licnophorida
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora	genus		Claparède 1867			MT973917		type species not fixed, but should be either L. auerbachii or L. cohnii (Claparède 1867)
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora;Licnophora auerbachii	species		(Cohn 1866) Claparède 1867	Trichodina auerbachii				no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora;Licnophora bassoni	species		Van As & Van As 2000					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora;Licnophora cohnii	species		Claparède 1867					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora;Licnophora hippocampi	species		Meng & Yu 1985					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora;Licnophora limpetae	species		Van As & Van As 1999					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora;Licnophora lyngbycola	species		Fauré-Fremiet 1937					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora;Licnophora lyngbycola;strain Miao-2006-Qingdao						DQ445606		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora;Licnophora macfarlandi	species		Stevens 1901					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora;Licnophora macfarlandi;strain Lynn-2002						AF527758		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora;Licnophora rosa	species		Van As & Van As 2001					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora;'LWW07110806 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Licnophora;'LWW07110806 lineage';strain LWW07110806						FJ876955; KM222007; KM222164		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Prolicnophora	genus		Jankowski 1978					no genetic data yet for this genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Licnophoridae;Prolicnophora;Prolicnophora setifera	species		(Maskell 1886) Jankowski 1978	Licnophora setifera				type species of the genus

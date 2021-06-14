@@ -1,0 +1,18 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes	reference
+Eukaryota;Hemimastigophora	phylum		Foissner et al. 1988						https://doi.org/10.1016/S0932-4739(88)80027-0
+Eukaryota;Hemimastigophora;Paramastix	genus		Skuja 1948					no genetic data yet for this genus	Skuja H. 1948. Taxonomie des Phytoplanktons einiger Seen in Uppland, Schweden. Symbolae Botanicae Upsalienses 9:1-399.
+Eukaryota;Hemimastigophora;Paramastix;Paramastix conifera	species		Skuja 1948					type species of the genus	Skuja H. 1948. Taxonomie des Phytoplanktons einiger Seen in Uppland, Schweden. Symbolae Botanicae Upsalienses 9:1-399.
+Eukaryota;Hemimastigophora;Paramastix;Paramastix lata	species		Skuja 1956						Skuja H. 1956. Taxonomische und biologische Studien über das Phytoplankton schwedischer Binnengewässer. Nova Acta Regiae Societatis Scientiarum Upsaliensis, Series IV 16:1-404.
+Eukaryota;Hemimastigophora;Paramastix;Paramastix truncata	species		Skuja 1948						Skuja H. 1948. Taxonomie des Phytoplanktons einiger Seen in Uppland, Schweden. Symbolae Botanicae Upsalienses 9:1-399.
+Eukaryota;Hemimastigophora;Spironemidae	family		Doflein 1916, emend. Foissner & Foissner 1993		Hernimastigea; Hemimastigida	AY689797; KX771897		single family Spironemidae in order Hemimastigida and class Hemimastigea	Doflein F. 1916. Lehrbuch der Protozoenkunde. 4. Aufl., G. Fischer, Jena.
+Eukaryota;Hemimastigophora;Spironemidae;Hemimastix	genus		Foissner et al. 1988						https://doi.org/10.1016/S0932-4739(88)80027-0
+Eukaryota;Hemimastigophora;Spironemidae;Hemimastix;Hemimastix amphikineta	species		Foissner et al. 1988					type species of the genus	https://doi.org/10.1016/S0932-4739(88)80027-0
+Eukaryota;Hemimastigophora;Spironemidae;Hemimastix;Hemimastix kukwesjijk	species		Eglit & Simpson 2018 in Lax et al. 2018						https://doi.org/10.1038/s41586-018-0708-8
+Eukaryota;Hemimastigophora;Spironemidae;Hemimastix;Hemimastix kukwesjijk;strain BW2H						MF682187; MF682191	EP00696; https://doi.org/10.6084/m9.figshare.12417881	type strain of the species	
+Eukaryota;Hemimastigophora;Spironemidae;Spironema	genus		Klebs 1893						Klebs G. 1893. Flagellatenstudien. Teil I. Z Wiss Zool 55:265-351.
+Eukaryota;Hemimastigophora;Spironemidae;Spironema;Spironema multiciliatum	species		Klebs 1893					type species of the genus	Klebs G. 1893. Flagellatenstudien. Teil I. Z Wiss Zool 55:265-351.
+Eukaryota;Hemimastigophora;Spironemidae;Spironema;Spironema goodeyi	species		Foissner & Foissner 1993						https://doi.org/10.1111/j.1550-7408.1993.tb04936.x
+Eukaryota;Hemimastigophora;Spironemidae;Spironema;Spironema terricola	species		Foissner & Foissner 1993						https://doi.org/10.1111/j.1550-7408.1993.tb04936.x
+Eukaryota;Hemimastigophora;Spironemidae;Spironema;strain BW2						MF682188; MF682190	EP00697; https://doi.org/10.6084/m9.figshare.12417881		
+Eukaryota;Hemimastigophora;Spironemidae;Stereonema	genus		Foissner & Foissner 1993					no genetic data yet for this genus	https://doi.org/10.1111/j.1550-7408.1993.tb04936.x
+Eukaryota;Hemimastigophora;Spironemidae;Stereonema;Stereonema geiseri	species		Foissner & Foissner 1993					type species of the genus	https://doi.org/10.1111/j.1550-7408.1993.tb04936.x

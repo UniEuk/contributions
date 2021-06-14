@@ -1,0 +1,8 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes	reference
+Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodelphidia	phylum		Tikhonenkov, Gawryluk, Mylnikov, & Keeling in Gawryluk et al. 2019						https://doi.org/10.1038/s41586-019-1398-6
+Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodelphidia;Rhodelphis	genus		Tikhonenkov, Gawryluk, Mylnikov, & Keeling in Gawryluk et al. 2019		Rhodelphea; Rhodelphida; Rhodelphidae			single genus Rhodelphis in family Rhodelphidae, order Rhodelphida, and class Rhodelphea	https://doi.org/10.1038/s41586-019-1398-6
+Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodelphidia;Rhodelphis;Rhodelphis limneticus	species		Tikhonenkov, Gawryluk, Mylnikov, & Keeling in Gawryluk et al. 2019					type species of the genus	https://doi.org/10.1038/s41586-019-1398-6
+Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodelphidia;Rhodelphis;Rhodelphis limneticus;strain Colp-38						MK966713	EP00735; https://doi.org/10.6084/m9.figshare.12417881	type strain of the species	
+Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodelphidia;Rhodelphis;Rhodelphis marinus	species		Tikhonenkov, Gawryluk, Mylnikov, & Keeling in Gawryluk et al. 2019						https://doi.org/10.1038/s41586-019-1398-6
+Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodelphidia;Rhodelphis;Rhodelphis marinus;strain Colp-29						MK966712	EP00736; https://doi.org/10.6084/m9.figshare.12417881	type strain of the species	
+Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodelphidia;'TAGIRI-28 clade'	genus	true				AB191436; GU824262; GU824809; GU825010		entirely environmental lineage so far; found in EukBank	

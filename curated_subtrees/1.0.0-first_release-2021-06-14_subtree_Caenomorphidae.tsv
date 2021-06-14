@@ -1,0 +1,23 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae	family		Poche 1913					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Caenomorpha	genus		Perty 1852	Calcaria; Gyrocorys		AY821933; LC027271; LT993471		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Caenomorpha;Caenomorpha corlissi	species		Jankowski 1964					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Caenomorpha;Caenomorpha lauterborni	species		Kahl 1927	Caenomorpha parva				no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Caenomorpha;Caenomorpha medusala	species		Perty 1852		Caenomorpha medusula			type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Caenomorpha;Caenomorpha medusala;strain LS2015031901					strain A710	KX911869		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Caenomorpha;Caenomorpha medusala;strain WB-Cae.medu					strain USA	MF828615		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Caenomorpha;Caenomorpha sapropelica	species		Kahl 1927					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Caenomorpha;'TP4 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Caenomorpha;'TP4 lineage';strain TP4						KY855538		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Caenomorpha;strain van-Hoek-1998-Plasmolen						AJ009663		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Caenomorpha;strain bBoG2						LN869988		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Ludio	genus		Penard 1922					no genetic data yet for this genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Ludio;Ludio parvulus	species		Penard 1922					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Sulfonecta	genus		Jankowski 1978					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Sulfonecta;Sulfonecta uniserialis	species		(Levine 1894) Jankowski 1978	Caenomorpha uniserialis		AY821936		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Sulfonecta;Sulfonecta uniserialis;strain LS2015052601					strain A711	KX911870		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Sulfonecta;'U97108 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Sulfonecta;'U97108 lineage';strain Hirt-1997						U97108		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Sulfonecta;'U97108 lineage';strain Dekkerswald-2						AJ009660		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;Sulfonecta;strain Dekkerswald-10						AJ009659		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Caenomorphidae;'FV23_1C2 lineage'	genus	true				DQ310216; DQ310252; EF526845; KT346324		entirely environmental lineage so far; could correspond to genus Ludio

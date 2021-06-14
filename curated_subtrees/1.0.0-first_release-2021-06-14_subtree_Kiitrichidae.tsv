@@ -1,0 +1,15 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae	family				Kiitrichida			single family Kiitrichidae in order Kiitrichida
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Kiitricha	genus		Nozawa 1941					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Kiitricha;Kiitricha marina	species		Nozawa 1941					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Kiitricha;Kiitricha marina;strain KS216						MG594906; MG603637		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Kiitricha;Kiitricha marina;strain Li-2005-Qingdao						AY896768; EF198664		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Caryotricha	genus		Kahl 1932			FN598456		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Caryotricha;Caryotricha convexa	species		Kahl 1932					type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Caryotricha;Caryotricha minuta	species		(Xu et al. 2008) Miao et al. 2009	Kiitricha minuta				
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Caryotricha;Caryotricha minuta;strain Qingdao						EU275202		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Caryotricha;Caryotricha minuta;strain LWW07112802						KM222026; KM222036; KM222125		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Caryotricha;Caryotricha rariseta	species		Jiang et al. 2013					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Caryotricha;Caryotricha rariseta;strain JJM08082901						FJ876978		type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Caryotricha;Caryotricha sinica	species		Lian et al. 2020					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Kiitrichidae;Caryotricha;Caryotricha sinica;strain LCY2018041109						MN543654		type strain of the species

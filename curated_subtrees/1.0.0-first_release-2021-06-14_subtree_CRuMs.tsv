@@ -1,0 +1,40 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes	reference
+Eukaryota;'CRuMs'								phylogenomics-based group (Brown et al. 2018)	https://doi.org/10.1093/gbe/evy014
+Eukaryota;'CRuMs';Mantamonas	genus		Cavalier-Smith & Glücksman in Glücksman et al. 2011		Mantamonadida; Mantamonadidae			single genus Mantamonas in family Mantamonadidae and order Mantamonadida	https://doi.org/10.1016/j.protis.2010.06.004
+Eukaryota;'CRuMs';Mantamonas;Mantamonas plastica	species		Glücksman & Cavalier-Smith in Glücksman et al. 2011					type species of the genus	https://doi.org/10.1016/j.protis.2010.06.004
+Eukaryota;'CRuMs';Mantamonas;Mantamonas plastica;strain CCAP-1946/1					strain Cumbria	GU001154; GU001155	EP00003; https://doi.org/10.6084/m9.figshare.12417881	type strain of the species	
+Eukaryota;'CRuMs';Mantamonas;'AF21 lineage'	species	true							
+Eukaryota;'CRuMs';Mantamonas;'AF21 lineage';strain AF21					strain Tanzania	GU001156; GU001157			
+Eukaryota;'CRuMs';Glissandra	genus		Patterson & Simpson 1996					no genetic data yet for this genus	https://doi.org/10.1016/S0932-4739(96)80003-4
+Eukaryota;'CRuMs';Glissandra;Glissandra innuerende	species		Patterson & Simpson 1996					type species of the genus	https://doi.org/10.1016/S0932-4739(96)80003-4
+Eukaryota;'CRuMs';Glissandra;Glissandra similis	species		Lee 2006						https://doi.org/10.1007/BF03022413
+Eukaryota;'CRuMs';'CR clade'								18S-based group; Collodictyonidae and Rigifilida form a well-supported clade at the exclusion of Mantamonas	
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae	family		Brugerolle et al. 2002, emend. Adl et al. 2019		Diphyllatea; Diphylleida; Diphylleidae; Sulcomonadidae			single family Collodictyonidae in order Diphylleida and class Diphyllatea; families Diphylleidae and Sulcomonadidae are redundant with family Collodictyonidae	https://doi.org/10.1078/1434-4610-00083
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon	genus		Carter 1865					it is unclear which (if any) of the two distinct 18S-based Collodictyon lineages corresponds to the species C. triciliatum described by Carter in 1865	https://doi.org/10.1080/00222936508681805
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;Collodictyon triciliatum	species		Carter 1865					type species of the genus	https://doi.org/10.1080/00222936508681805
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 1'	species	true				MF039355		candidate species (unless it matches Carter's Collodictyon triciliatum)	
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 1';strain Arungen					strain Klaveness-1995; strain A85	JN618830-JN618979; JX863892; MF039367	EP00001; https://doi.org/10.6084/m9.figshare.12417881		
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 1';strain KIVT03						MF039366			
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 2'	species	true						candidate species (unless it matches Carter's Collodictyon triciliatum)	
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 2';strain KIINB						MF039356			
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 2';strain KIKNR01						MF039357			
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 2';strain KIKNR02						MF039361			
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 2';strain KIKNR03						MF039360			
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 2';strain KIVT01						MF039362			
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 2';strain KIVT02						MF039358			
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 2';strain KIVT04						MF039359			
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 2';strain KIVTT01						MF039363			
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Collodictyon;'Collo 18S clade 2';strain KIVTT02						MF039364			
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Diphylleia	genus		Massart 1920	Aulacomonas					Massart J. 1920. Recherches sur les organismes inférieurs VIII - Sur la motilité des Flagellates. Bull Acad Roy Belg Cl Sci 6:116-141.
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Diphylleia;Diphylleia rotans	species		Massart 1920	Aulacomonas submarina		AM709512; GU970557-GU970559; GU970561; GU970562; GU970564; GU970566; GU970569; GU970572-GU970574; JF774996; JF775022; KC575460-KC575476; KC575502; MF039351-MF039354		type species of the genus	Massart J. 1920. Recherches sur les organismes inférieurs VIII - Sur la motilité des Flagellates. Bull Acad Roy Belg Cl Sci 6:116-141.
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Diphylleia;Diphylleia rotans;strain Brugerolle-1990						AF420478			
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Diphylleia;Diphylleia rotans;strain NIES-3764					strain SRT116	MF039365; AP015014	EP00002; https://doi.org/10.6084/m9.figshare.12417881		
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Sulcomonas	genus		Brugerolle 2006					no genetic data yet for this genus	Brugerolle G. 2006. Description of a new freshwater heterotrophic flagellate Sulcomonas lacustris affiliated to the collodictyonids. Acta Protozool 45:175-182.
+Eukaryota;'CRuMs';'CR clade';Collodictyonidae;Sulcomonas;Sulcomonas lacustris	species		Brugerolle 2006					type species of the genus	Brugerolle G. 2006. Description of a new freshwater heterotrophic flagellate Sulcomonas lacustris affiliated to the collodictyonids. Acta Protozool 45:175-182.
+Eukaryota;'CRuMs';'CR clade';Rigifilida	order		Cavalier-Smith in Yabuki et al. 2012						http://dx.doi.org/10.1016/j.protis.2012.04.005
+Eukaryota;'CRuMs';'CR clade';Rigifilida;Micronuclearia	genus		Mikrjukov & Mylnikov 2001		Micronucleariida; Micronucleariidae	MK177607		single genus Micronuclearia in family Micronucleariidae; order Micronucleariida is redundant with order Rigifilida	https://doi.org/10.1078/0932-4739-00783
+Eukaryota;'CRuMs';'CR clade';Rigifilida;Micronuclearia;Micronuclearia podoventralis	species		Mikrjukov & Mylnikov 2001					type species of the genus	https://doi.org/10.1078/0932-4739-00783
+Eukaryota;'CRuMs';'CR clade';Rigifilida;Micronuclearia;Micronuclearia podoventralis;strain Mikrjukov-2001						AY268038		type strain of the species	
+Eukaryota;'CRuMs';'CR clade';Rigifilida;Rigifila	genus		Yabuki & Cavalier-Smith in Yabuki et al. 2013		Rigifilidae			single genus Rigifila in family Rigifilidae	http://dx.doi.org/10.1016/j.protis.2012.04.005
+Eukaryota;'CRuMs';'CR clade';Rigifilida;Rigifila;Rigifila ramosa	species		Yabuki & Cavalier-Smith in Yabuki et al. 2013					type species of the genus	http://dx.doi.org/10.1016/j.protis.2012.04.005
+Eukaryota;'CRuMs';'CR clade';Rigifilida;Rigifila;Rigifila ramosa;strain CCAP-1967/1					strain YPF923	AB686266; AB686267	EP00004; https://doi.org/10.6084/m9.figshare.12417881	type strain of the species	

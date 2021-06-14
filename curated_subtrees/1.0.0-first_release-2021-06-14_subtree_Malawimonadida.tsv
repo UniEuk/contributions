@@ -1,0 +1,16 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes	reference
+Eukaryota;Malawimonadida	order		Cavalier-Smith 2003		Malawimonadea			single order Malawimonadida in class Malawimonadea	https://doi.org/10.1099/ijs.0.02548-0
+Eukaryota;Malawimonadida;Imasa	genus		Heiss, Simpson & Kim in Heiss et al. 2021		Imasidae			single genus Imasa in family Imasidae	https://doi.org/10.1111/jeu.12837
+Eukaryota;Malawimonadida;Imasa;Imasa heleensis	species		Heiss, Simpson & Kim in Heiss et al. 2021					type species of the genus	https://doi.org/10.1111/jeu.12837
+Eukaryota;Malawimonadida;Imasa;Imasa heleensis;strain Slancy						MT246538; MW008026; MW008028-MW008031; MW020604-MW020608	EP00907; https://doi.org/10.6084/m9.figshare.12417881	type strain of the species	
+Eukaryota;Malawimonadida;Malawimonadidae	family		O'Kelly & Nerad 1999						https://doi.org/10.1111/j.1550-7408.1999.tb06070.x
+Eukaryota;Malawimonadida;Malawimonadidae;Gefionella	genus		Heiss, Ekelund & Simpson in Heiss et al. 2018			MK946218			https://doi.org/10.1098/rsos.171707
+Eukaryota;Malawimonadida;Malawimonadidae;Gefionella;Gefionella okellyi	species		Heiss, Ekelund & Simpson in Heiss et al. 2018					type species of the genus	https://doi.org/10.1098/rsos.171707
+Eukaryota;Malawimonadida;Malawimonadidae;Gefionella;Gefionella okellyi;strain 249						KP165390; KP165391; KU522219; MG905950	EP00698; https://doi.org/10.6084/m9.figshare.12417881	type strain of the species	
+Eukaryota;Malawimonadida;Malawimonadidae;Malawimonas	genus		O'Kelly & Nerad 1999			MK946232			https://doi.org/10.1111/j.1550-7408.1999.tb06070.x
+Eukaryota;Malawimonadida;Malawimonadidae;Malawimonas;Malawimonas jakobiformis	species		O'Kelly & Nerad 1999					type species of the genus	https://doi.org/10.1111/j.1550-7408.1999.tb06070.x
+Eukaryota;Malawimonadida;Malawimonadidae;Malawimonas;Malawimonas jakobiformis;strain ATCC-50310					strain MJL00000683	AF267181; AF267185; AF267186; AF295546; AF322044; AF322045; AY117420; AY924420; AY924996; AY925004; AY925017; DQ295220; DQ295224; DQ295227; DQ295228; EF199879; EF455761; EF455790; HQ834947	EP00700; https://doi.org/10.6084/m9.figshare.12417881	type strain of the species	
+Eukaryota;Malawimonadida;Malawimonadidae;Malawimonas;'Malawimonas californiana'	species	true						not formally described, but forms a distinct species-level genetic lineage	
+Eukaryota;Malawimonadida;Malawimonadidae;Malawimonas;'Malawimonas californiana';strain ATCC-50740					strain CA-1	AY236974; AY925003; AY926576; KP165387; KP271960-KP271964; KR230050; KR230051; KU522220; MG905951	EP00699,EP01081; https://doi.org/10.6084/m9.figshare.12417881	type strain of the candidate species	
+Eukaryota;Malawimonadida;'VLC22 lineage'	genus	true							
+Eukaryota;Malawimonadida;'VLC22 lineage';strain VLC22								no longer available in culture	

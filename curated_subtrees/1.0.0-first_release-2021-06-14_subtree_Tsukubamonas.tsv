@@ -1,0 +1,4 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes	reference
+Eukaryota;Discoba;Tsukubamonas	genus		Yabuki et al. 2011		Tsukubamonadida; Tsukubamonadidae			single genus Tsukubamonas in family Tsukubamonadidae and order Tsukubamonadida (Yabuki et al. 2011)	https://doi.org/10.1111/j.1550-7408.2011.00552.x
+Eukaryota;Discoba;Tsukubamonas;Tsukubamonas globosa	species		Yabuki et al. 2011					type species of the genus	https://doi.org/10.1111/j.1550-7408.2011.00552.x
+Eukaryota;Discoba;Tsukubamonas;Tsukubamonas globosa;strain NIES-1390					strain TKB-055	AB576851-AB576859; AB854048	EP00695; https://doi.org/10.6084/m9.figshare.12417881	type strain of the species	

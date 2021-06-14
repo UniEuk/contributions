@@ -1,0 +1,251 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea	class		Corliss 1974					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Wilbertomorpha	genus		Xu et al. 2013		Wilbertomorphidae			single genus Wilbertomorpha in family Wilbertomorphidae
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Wilbertomorpha;Wilbertomorpha colpoda	species		Xu et al. 2013					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Wilbertomorpha;Wilbertomorpha colpoda;strain XY11050501						JX204736; KC461119		type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae	family		Kahl 1933	Aveliidae				
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;'CP clade'								18S-based group; Corlissina, Parduczia and strain MMETSP-1317 form a well-supported clade at the exclusion of Geleia
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;'CP clade';Corlissina	genus		Campello-Nunes et al. 2015					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;'CP clade';Corlissina;Corlissina maricaensis	species		Campello-Nunes et al. 2015					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;'CP clade';Corlissina;Corlissina maricaensis;strain Fernandes-2015						KP970249; KP970250		type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;'CP clade';Parduczia	genus		Dragesco 1999					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;'CP clade';Parduczia;Parduczia orbis	species		Fauré-Fremiet 1950	Geleia orbis				type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;'CP clade';Parduczia;Parduczia orbis;strain WH						AY187924		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;'CP clade';'MMETSP-1317 lineage'	genus	true				JF327426		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;'CP clade';'MMETSP-1317 lineage';strain MMETSP-1317							EP00362; https://doi.org/10.6084/m9.figshare.12417881	
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia	genus		Kahl in Foissner 1998			AJ971535		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia acuta	species		(Dragesco 1960) Foissner 1998					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia acuta;strain XY2010100902						KJ768666		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia fossata	species		Kahl 1933					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia fossata;strain Nah						AY187925		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia simplex	species		Fauré-Fremiet 1951					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia simplex;strain 00Nah						AY187927		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia simplex;strain 02Nah						AY187928		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia simplex;strain 60Nah						AY187929		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia simplex;strain 200Nah						AY187930		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia simplex;strain WH						AY187931		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia simplex;strain 2000Nah						AY187932		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia sinica	species		Xu et al. 2011					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia sinica;strain A440						JF437558		type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia swedmarkii	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;Geleia swedmarkii;strain Nah						AY187933		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;'RRD-2003 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Geleia;'RRD-2003 lineage';strain WH						AY187926		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Avelia	genus		Nouzarède 1977					no genetic data yet for this genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Avelia;Avelia martinicensis	species		Nouzarède 1975					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Gellertia	genus		Dragesco 1999					no genetic data yet for this genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Geleiidae;Gellertia;Gellertia heterotricha	species		Dragesco 1999					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary'								18S-based group; loxodids, kentrophorids and trachelocercids form a well-supported clade at the exclusion of geleiids and Wilbertomorpha
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida	order		Jankowski 1980					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae	family		Jankowski 1980					no genetic data yet for this taxon
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Apocryptopharynx	genus		Foissner 1996					no genetic data yet for this genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Apocryptopharynx;Apocryptopharynx hippocampoides	species		Foissner 1996					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Apocryptopharynx;Apocryptopharynx wardi	species		(Small & Lynn1985) Foissner 1996	Cryptopharynx wardi				
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Apocryptopharynx;Apocryptopharynx discoidalis	species		Xu et al. 2017					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Apocryptopharynx;Apocryptopharynx discoidalis;strain XY11050704								type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Cryptopharynx	genus		Kahl 1928					no genetic data yet for this genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Cryptopharynx;Cryptopharynx setigerus	species		Kahl 1928					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Cryptopharynx;Cryptopharynx enigmaticus	species		Dragesco 1954					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Cryptopharynx;Cryptopharynx kahli	species		Dragesco 1954					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Cryptopharynx;Cryptopharynx mauritanicus	species		Dragesco 1965					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Cryptopharynx;Cryptopharynx multinucleatum	species		Dragesco 1954					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Cryptopharynx;Cryptopharynx minutus	species		Xu et al. 2017					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Cryptopharyngidae;Cryptopharynx;Cryptopharynx minutus;strain XY11050702								type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae	family		Bütschli 1889					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes	genus		Ehrenberg 1830	Drepanostoma; Pelecida; Triodonta				
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;Loxodes rostrum	species		Ehrenberg in Fromentel 1875					type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;'Loxodes orientalis'	species	true						not formally described, but forms a distinct genetic lineage
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;'Loxodes orientalis';strain PHB2009041401						KJ524910; KM222107		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;Loxodes rex	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;Loxodes rex;strain FL1						MK507765		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;Loxodes vorax	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;Loxodes vorax;strain XY2011051201						KJ524909		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;'Lstriatus complex'						AY605230		species in this group are not clearly distinguishable by 18S alone
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;'Lstriatus complex';Loxodes magnus	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;'Lstriatus complex';Loxodes magnus;strain Hirt-1995						L31519		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;'Lstriatus complex';Loxodes striatus	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;'Lstriatus complex';Loxodes striatus;strain Leipe-1995						U24248		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;'Lstriatus complex';Loxodes striatus;strain L5						AM946031		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;'Lstriatus complex';strain SKS406-vorax						KJ651829		identified as L. vorax
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;'Lstriatus complex';strain aPFEU1						LN869953		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;'Lstriatus complex';strain aPFT1						LN869968		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Loxodes;'Lstriatus complex';strain cPFEU1						LN870137		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Remanella	genus		Foissner 1996					polyphyletic genus; type species not yet sequenced
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Remanella;Remanella multinucleata	species		(Kahl 1933) Foissner 1996					type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Remanella;Remanella microstoma	species		(Dragesco 1953) Foissner 1996					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;Remanella;Remanella rugosa	species			R. unirugosa				no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rgranulosa lineage'	genus	true						candidate genus (unless it contains the type species of Remanella)
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rgranulosa lineage';Remanella achroma	species		Xu et al. 2013					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rgranulosa lineage';Remanella achroma;strain XY09112401						JX015374		type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rgranulosa lineage';Remanella granulosa	species		(Kahl 1933) Foissner 1996	R. multicorpusculata; R. trichocysta				
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rgranulosa lineage';Remanella granulosa;strain XY10111001						JQ768408		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rgranulosa lineage';Remanella minuta	species		(Dragesco 1954) Foissner 1996					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rgranulosa lineage';Remanella minuta;strain XY10102701						JQ768406		JQ768406 is a chimeric sequence contaning part of a Spirotrichea ciliate
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rgranulosa lineage';'1 WS-2012 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rgranulosa lineage';'1 WS-2012 lineage';strain LWW08031803						FJ876957; JX015376		FJ876957 & JX015376 are chimeric sequences contaning part of a Spirotrichea ciliate
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rgranulosa lineage';'3 WS-2012 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rgranulosa lineage';'3 WS-2012 lineage';strain XY09092301						JX015378		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rmargaritifera lineage'	genus	true						candidate genus (unless it contains the type species of Remanella)
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rmargaritifera lineage';Remanella margaritifera	species		(Kahl 1933) Foissner 1996					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rmargaritifera lineage';Remanella margaritifera;strain XY09061001						JX015375		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rmargaritifera lineage';Remanella macrostoma	species		Xu et al. 2013					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rmargaritifera lineage';Remanella macrostoma;strain XY10062801						JX015373		type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rsinica lineage'	genus	true						candidate genus (unless it contains the type species of Remanella)
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rsinica lineage';Remanella sinica	species		Xu et al. 2012					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rsinica lineage';Remanella sinica;strain XY10110502						JQ768407		type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rsinica lineage';'R101 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'Rsinica lineage';'R101 lineage';strain R101						AM409181		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'XY09051201 lineage'	genus	true						candidate genus (unless it contains the type species of Remanella)
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Loxodida;Loxodidae;'XY09051201 lineage';strain XY09051201						JX015377		the quality of sequence JX015377 is dubious
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae	family		Kent 1881					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;Apotrachelocerca	genus		Xu et al. 2011					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;Apotrachelocerca;Apotrachelocerca arenicola	species		(Kahl 1933) Xu et al. 2011	Trachelocerca arenicola				type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;Apotrachelocerca;Apotrachelocerca arenicola;strain XY09100901						JF800908		type strain of the species (neotype)
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;Kovalevaia	genus		Foissner 1997			AB505535		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;Kovalevaia;Kovalevaia sulcata	species		(Kovaleva 1966) Foissner 1997	Trachelonema sulcata				type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;Kovalevaia;Kovalevaia sulcata;strain XY09090201						KC542934		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;Trachelolophos	genus		Foissner & Dragesco 1996					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;Trachelolophos;Trachelolophos gigas	species							type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;Trachelolophos;Trachelolophos quadrinucleatus	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;Trachelolophos;Trachelolophos quadrinucleatus;strain YY2012112308						KT361660		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'T41 lineage'	genus	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'T41 lineage';strain T41						AJ971525		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'T55 lineage'	genus	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'T55 lineage';strain T55						AJ971530		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade'						JX268811; JX268820; JX268826; JX268835-JX268837; JX268842; JX268849; JX268868; JX268869; JX268879; JX268889; JX268900; JX268909-JX268911; JX268919; JX268920		18S-based group; Prototrachelocerca, Trachelocerca and Tracheloraphis form a well-supported clade at the exclusion of Apotrachelocerca, Kovalevaia and Trachelolophos
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Prototrachelocerca	genus		Foissner 1996					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Prototrachelocerca;Prototrachelocerca fasciolata	species		(Sauerbrey 1928) Foissner 1996	Trachelocerca fasciolata				type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Prototrachelocerca;Prototrachelocerca fasciolata;strain YY2012041802						KJ609035		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Prototrachelocerca;strain T2						AJ971529		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Tracheloraphis	genus		Dragesco 1960	Trachelonema				polyphyletic genus; type species not yet sequenced
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Tracheloraphis;Tracheloraphis phoenicopterus	species		(Cohn 1866) Dragesco 1960	Trachelocerca phoenicopterus				type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Tracheloraphis;strain Hirt-1995						L31520		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';'Tdragescoi lineage'	genus	true				FN598449		candidate genus (unless it contains the type species of Tracheloraphis)
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';'Tdragescoi lineage';Tracheloraphis dragescoi	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';'Tdragescoi lineage';Tracheloraphis dragescoi;strain XY2009042902						KJ768668		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';'RM2-SGM28 lineage'	genus	true				AB505536		entirely environmental lineage so far
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';'E01 lineage'	genus	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';'E01 lineage';strain E01						AJ971532		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';'L02 lineage'	genus	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';'L02 lineage';strain L02						AJ971528		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';'T90 lineage'	genus	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';'T90 lineage';strain T90						AJ971531		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca	genus		(Ehrenberg 1840) Foissner & Dragesco 1996	Gruvelina; Nephrocerca; Protrichophora		AB505537; AB505538; AB505590		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Trachelocerca chinensis	species		Xu et al. 2014					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Trachelocerca chinensis;strain Gao-2008						FJ463746		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Trachelocerca chinensis;strain XY2009121601						KJ768667		type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Trachelocerca ditis	species		(Wright 1982) Foissner & Dragesco 1996	Tracheloraphis ditis				
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Trachelocerca ditis;strain Mazei-2009						GQ167153		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Tracheloraphis huangi	species		Xu et al. 2011					this species should be transfered to genus Trachelocerca
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Tracheloraphis huangi;strain YY2012061301						KJ609037		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Tracheloraphis huangi;strain AE2010041301						KJ609038		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Tracheloraphis huangi;strain XY2009062402						KJ609039		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Trachelocerca orientalis	species		Yan et al. 2015					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Trachelocerca orientalis;strain YY2012040801						KJ609036		type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Trachelocerca sagitta	species		(Müller 1786) Ehrenberg 1840	Vibrio sagitta				type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;Trachelocerca sagitta;strain XY09090301						KC542935		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;strain C03						AJ971527		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;strain L1						AJ971526		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;'PTT clade';Trachelocerca;strain T6						AJ971533; AJ971534		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;Sultanophrys	genus		Foissner & Al-Rasheid 1999					no genetic data yet for this genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Trachelocercidae;Sultanophrys;Sultanophrys arabica	species							type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros	genus		Sauerbrey 1928	Centrophorella; Centrophorus	Kentrophoridae			single genus Kentrophoros in family Kentrophoridae Jankowski 1980, but its genetic diversity could justify separation in multiple genera
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;Kentrophoros fasciolatus	species		Sauerbrey 1928	Kentrophoros fasciolatum				type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'Kflavus lineage'								
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'Kflavus lineage';Kentrophoros flavus	species		Raikov & Kovaleva 1968					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'Kflavus lineage';Kentrophoros flavus;strain QD061123						FJ467505		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'Kflavus lineage';Kentrophoros gracilis	species		Raikov 1963					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'Kflavus lineage';Kentrophoros gracilis;strain QD061131						FJ467506		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'FBG lineage'								
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'FBG lineage';strain S432						LT621835		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'FBG lineage';strain S435						LT621836		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'RM1-SGM25 lineage'						AB505482		entirely environmental lineage so far
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'RM2-SGM25 lineage'						AB505533		entirely environmental lineage so far
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade'						JX268899		18S-based group; potential genus level
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FB lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FB lineage';strain S136						LT621811		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FB lineage';strain S137						LT621812		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FB lineage';strain S138						LT621813		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FB lineage';strain S233						LT621825		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FB lineage';strain S234						LT621826		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FB lineage';strain S3116						LT621829		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FM-G lineage'								species in this group are not clearly distinguishable by 18S alone
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FM-G lineage';'FM morphotype'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FM-G lineage';'FM morphotype';strain BZ163						LT621847		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FM-G lineage';'FM morphotype';strain BZ164						LT621848		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FM-G lineage';'FM morphotype';strain BZ165						LT621849		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FM-G lineage';'FM morphotype';strain BZ176						LT621850		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FM-G lineage';'G morphotype'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FM-G lineage';'G morphotype';strain BZ157						LT621846		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FM-G lineage';'G morphotype';strain BZ180						LT621851		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FM-G lineage';'G morphotype';strain BZ181						LT621852		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FM-G lineage';'G morphotype';strain BZ185						LT621853		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'FM-G lineage';strain BZ50						LT621856		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'H lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'H lineage';strain H6						LT621810		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'H lineage';strain SA2B12						LT621837		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'H lineage';strain SA2B14						LT621838		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'H lineage';strain SA2B15						LT621839		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'H lineage';strain SA2B16						LT621840		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'H lineage';strain SA2B17						LT621841		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'H lineage';strain SA2B18						LT621842		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'H lineage';strain SA2B19						LT621843		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'H lineage';strain SA2B20						LT621844		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'BZ61 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'BZ61 lineage';strain BZ61						LT621857		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'S256 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'S256 lineage';strain S256						LT621828		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-1 clade';'RM2-SGM26 lineage'	species	true				AB505534		entirely environmental lineage so far
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade'								18S-based group; potential genus level
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'BT lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'BT lineage';strain S245						LT621778-LT621793		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'BT lineage';strain S247						LT621794-LT621809		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'FW lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'FW lineage';strain BZ131						LT621756-LT621767		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'FW lineage';strain BZ15						LT621768-LT621777		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LFY lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LFY lineage';strain M6						LT621906		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LFY lineage';strain M7						LT621907		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LFY lineage';strain BY7						LT621908		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFa lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFa lineage';strain S2211						LT621814		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFa lineage';strain S313						LT621905		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFa lineage';strain S314						LT621830		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFa lineage';strain S315						LT621831		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFa lineage';strain S424						LT621832		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFa lineage';strain S425						LT621833		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFa lineage';strain S426						LT621834		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage'								species in this group are not clearly distinguishable by 18S alone
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'LPF morphotype'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'LPF morphotype';strain S2212						LT621815		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'LPF morphotype';strain S2219						LT621819		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'LPF morphotype';strain S2310						LT621823		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'LPF morphotype';strain S2311						LT621824		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'LPF morphotype';strain S239						LT621827		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'PF morphotype'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'PF morphotype';strain S225						LT621820		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'PF morphotype';strain S226						LT621821		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'PF morphotype';strain S228						LT621822		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'PFC morphotype'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'PFC morphotype';strain S2215						LT621816		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';'PFC morphotype';strain S2216						LT621817		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'LPFC lineage';strain S2218						LT621818		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'MB lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'MB lineage';strain BZ197						LT621858		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'MB lineage';strain BZ198						LT621854; LT621914-LT621927		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'MB lineage';strain BZ199						LT621855; LT621928-LT621939		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'SD lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'SD lineage';strain S126						LT621859-LT621866; LT621875-LT621889		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'SD lineage';strain S127						LT621867-LT621874; LT621890-LT621904		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'TC lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'TC lineage';strain BZ123						LT621940-LT621952		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'TC lineage';strain BZ125						LT621953-LT621967		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'TUN lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'TUN lineage';strain BY1						LT621909		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'TUN lineage';strain BY2						LT621910		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'TUN lineage';strain BY3						LT621911		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'UNK lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'UNK lineage';strain BY8						LT621912		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'UNK lineage';strain BY19						LT621913		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'BZ133 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;'core Kary';Kentrophoros;'KENT-2 clade';'BZ133 lineage';strain BZ133						LT621845		

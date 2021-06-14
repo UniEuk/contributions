@@ -1,0 +1,14 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida	order		Sawaya 1940		Odontostomatea	KP059208		single order Odontostomatida in class Odontostomatea
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida;Discomorphella	genus		Corliss 1960		Discomorphellidae	AY821980		single genus Discomorphella in family Discomorphellidae
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida;Discomorphella;Discomorphella pectinata	species		(Levander 1894) Corliss 1960	Discomorpha pectinata				type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida;Discomorphella;Discomorphella pedroenasi	species		Paiva et al. 2017					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida;Discomorphella;Discomorphella pedroenasi;strain bar						MF563969		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida;Mylestoma	genus		Kahl 1928		Mylestomatidae			single genus Mylestoma in family Mylestomatidae; no genetic data yet for this genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida;Mylestoma;Mylestoma anatinum	species		(Penard 1922) Kahl 1928	Epalxis anatinum				
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida;Mylestoma;Mylestoma bipartitum	species		(Gourret & Roeser 1886) Kahl 1928	Aspidisca bipartita				type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida;Saprodinium	genus		Lauterborn 1908					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida;Saprodinium;Saprodinium dentatum	species		(Lauterborn 1901) Lauterborn 1908	Discomorpha dentatum				type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida;Saprodinium;Saprodinium dentatum;strain vin						MF563970; MF576166		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida;Saprodinium;Saprodinium halophilum	species		Kahl 1932					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Odontostomatida;Saprodinium;Saprodinium integrum	species		Kahl 1928					no genetic data yet for this species

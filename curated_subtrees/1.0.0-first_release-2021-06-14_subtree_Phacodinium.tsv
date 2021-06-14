@@ -1,0 +1,6 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Phacodinium	genus		Prowazek 1900		Phacodiniida; Phacodiniidae			single genus Phacodinium in family Phacodiniidae and order Phacodiniida
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Phacodinium;Phacodinium metchnicoffi	species		(Certes 1891) Prowazek 1900	Conchophthirius metchnicoffi; Phacodinium muscorum	Phacodinium metchnikoffi			type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Phacodinium;Phacodinium metchnicoffi;strain SNK10030901						AJ277877; HM122023		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Phacodinium;Phacodinium metchnicoffi;strain LCY2017032710						MN176351; MN184619		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;'SAL';Phacodinium;Phacodinium metchnicoffi;strain Calvo-2004						AY554040; AY554041		

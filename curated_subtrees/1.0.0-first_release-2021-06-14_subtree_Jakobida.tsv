@@ -1,0 +1,84 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes	reference
+Eukaryota;Discoba;Jakobida	order		Cavalier-Smith 1993, emend. Adl et al. 2005						https://doi.org/10.1111/j.1550-7408.1993.tb06117.x
+Eukaryota;Discoba;Jakobida;Ophirina	genus		Yabuki et al. 2019		Ophirinina; Ophirinidae			single genus Ophirina in suborder Ophirinina and family Ophirinidae	https://doi.org/10.1038/s41598-018-34504-6
+Eukaryota;Discoba;Jakobida;Ophirina;Ophirina amphinema	species		Yabuki et al. 2019					type species of the genus	https://doi.org/10.1038/s41598-018-34504-6
+Eukaryota;Discoba;Jakobida;Ophirina;Ophirina amphinema;strain JB						LC369600; LC369601	EP00726; https://doi.org/10.6084/m9.figshare.12417881	type strain of the species	
+Eukaryota;Discoba;Jakobida;Histionina	suborder		Cavalier-Smith 2013						https://doi.org/10.1016/j.ejop.2012.06.001
+Eukaryota;Discoba;Jakobida;Histionina;Jakoba	genus		Patterson 1990		Jakobidae			single genus Jakoba in family Jakobidae Patterson 1990	https://doi.org/10.1017/S0025315400035487
+Eukaryota;Discoba;Jakobida;Histionina;Jakoba;Jakoba libera	species		(Ruinen 1938) Patterson 1990	Cryptobia libera		AJ965212		type species of the genus	Ruinen J. 1938. Notizen über Salzflagellaten. II. Über die Verbreitung der Salzflagellaten. Arch Protistenkd 90:210-258.
+Eukaryota;Discoba;Jakobida;Histionina;Jakoba;Jakoba libera;strain ATCC-50302								type strain of the species	
+Eukaryota;Discoba;Jakobida;Histionina;Jakoba;Jakoba libera;strain ATCC-50421					strain 2357-C-1				
+Eukaryota;Discoba;Jakobida;Histionina;Jakoba;Jakoba libera;strain ATCC-50422					strain CB	AF267180; AF267184; AY117418; AY236973; AY924997; AY925006; AY926577; DQ384296-DQ384298; FJ807241; HQ436411; KC353355	EP00693; https://doi.org/10.6084/m9.figshare.12417881		
+Eukaryota;Discoba;Jakobida;Histionina;Jakoba;Jakoba libera;strain ATCC-50992						EF455770			
+Eukaryota;Discoba;Jakobida;Histionina;Jakoba;'WHOI-DB9 lineage'	species	true						identified as J. libera but genetically distinct from ATCC-50422	
+Eukaryota;Discoba;Jakobida;Histionina;Jakoba;'WHOI-DB9 lineage';strain WHOI-DB9						AF411288			
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae	family		Flavin & Nerad 1993	Histionaceae					https://doi.org/10.1111/j.1550-7408.1993.tb04900.x
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Histiona	genus		Voigt 1902						Voigt M. 1902. Neue Organismen aus Plöner Gewässern. Forschungsberichte aus der Biologischen Station zu Plön 9:33-46.
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Histiona;Histiona velifera	species		(Voigt 1901) Pascher 1943	Histiona zachariasi; Zachariasia velifera				type species of the genus	Voigt M. 1901. Über einige bisher unbekannte Süsswasserorganismen. Zoologischer Anzeiger 24:191-195.
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Histiona;Histiona aroides	species		Pascher 1943						Pascher A. 1943. Eine neue Art der Flagellatengattung Histiona aus den Uralpen. Arch Protistenkd 96:288-294.
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Histiona;Histiona aroides;strain ATCC-50634					strain H-1	FJ807239; KC353353	EP00691; https://doi.org/10.6084/m9.figshare.12417881		
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Reclinomonas	genus		Flavin & Nerad 1993						https://doi.org/10.1111/j.1550-7408.1993.tb04900.x
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Reclinomonas;Reclinomonas americana	species		Flavin & Nerad 1993				EP00694; https://doi.org/10.6084/m9.figshare.12417881	type species of the genus	https://doi.org/10.1111/j.1550-7408.1993.tb04900.x
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Reclinomonas;Reclinomonas americana;strain ATCC-50283					strain MD	AF267182; AF267189; AF267190; AF322047; AY117417; AY236975; DQ295221; DQ295225; DQ295231-DQ295233; KC353357		type strain of the species	
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Reclinomonas;Reclinomonas americana;strain ATCC-50284					strain MI	AF267187; AF267188; AY236976; KC353358			
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Reclinomonas;Reclinomonas americana;strain ATCC-50394					strain NZ	AF007261; AF322046; AY924999; AY925007			
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Reclinomonas;Reclinomonas americana;strain ATCC-50633					strain H-2	AF053089; KC353356			
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Reclinomonas;Reclinomonas campanula	species		(Penard 1921) Flavin & Nerad 1993	Histiona campanula; Stenocodon campanula					Penard E. 1921. Studies on some flagellata. Proceedings of the Academy of Natural Sciences of Philadelphia 73:105-168.
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Stomatochone	genus		Pascher 1942					no genetic data yet for this genus	Pascher A. 1942. Zur Klärung einiger gefärbter und farbloser Flagellaten und ihrer Einrichtungen zur Aufnahme animalischer Nahrung. Arch Protistenkd 96:75-108.
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Stomatochone;Stomatochone cochlear	species		Pascher 1942						Pascher A. 1942. Zur Klärung einiger gefärbter und farbloser Flagellaten und ihrer Einrichtungen zur Aufnahme animalischer Nahrung. Arch Protistenkd 96:75-108.
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Stomatochone;Stomatochone epiplankton	species		Pascher 1942						Pascher A. 1942. Zur Klärung einiger gefärbter und farbloser Flagellaten und ihrer Einrichtungen zur Aufnahme animalischer Nahrung. Arch Protistenkd 96:75-108.
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Stomatochone;Stomatochone excavata	species		Pascher 1942	Oikomonas excavata					Pascher A. 1942. Zur Klärung einiger gefärbter und farbloser Flagellaten und ihrer Einrichtungen zur Aufnahme animalischer Nahrung. Arch Protistenkd 96:75-108.
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Stomatochone;Stomatochone infundibuliformis	species		Pascher 1942						Pascher A. 1942. Zur Klärung einiger gefärbter und farbloser Flagellaten und ihrer Einrichtungen zur Aufnahme animalischer Nahrung. Arch Protistenkd 96:75-108.
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Stenocodon	genus		Pascher 1942					no genetic data yet for this genus	Pascher A. 1942. Zur Klärung einiger gefärbter und farbloser Flagellaten und ihrer Einrichtungen zur Aufnahme animalischer Nahrung. Arch Protistenkd 96:75-108.
+Eukaryota;Discoba;Jakobida;Histionina;Histionidae;Stenocodon;Stenocodon epiplankton	species		Pascher 1942					type species of the genus	Pascher A. 1942. Zur Klärung einiger gefärbter und farbloser Flagellaten und ihrer Einrichtungen zur Aufnahme animalischer Nahrung. Arch Protistenkd 96:75-108.
+Eukaryota;Discoba;Jakobida;Histionina;Moramonadidae	family		Strassert et al. 2016						https://doi.org/10.1098/rsob.150239
+Eukaryota;Discoba;Jakobida;Histionina;Moramonadidae;Moramonas	genus		Strassert et al. 2016						https://doi.org/10.1098/rsob.150239
+Eukaryota;Discoba;Jakobida;Histionina;Moramonadidae;Moramonas;Moramonas marocensis	species		Strassert et al. 2016					type species of the genus	https://doi.org/10.1098/rsob.150239
+Eukaryota;Discoba;Jakobida;Histionina;Moramonadidae;Moramonas;Moramonas marocensis;strain IBIW-RAS-OF-50						KT878762; KU057169-KU057179		type strain of the species	
+Eukaryota;Discoba;Jakobida;Histionina;Moramonadidae;'Seculamonas'	genus	true						not formally described, but forms a distinct genetic lineage in Moramonadidae	
+Eukaryota;Discoba;Jakobida;Histionina;Moramonadidae;'Seculamonas';'Seculamonas ecuadoriensis'	species	true							
+Eukaryota;Discoba;Jakobida;Histionina;Moramonadidae;'Seculamonas';'Seculamonas ecuadoriensis';strain ATCC-50688					strain MUN-6	AY236977; AY924998; AY925005; DQ005448; DQ190541; DQ384288; FJ807245; KC353359	EP00690; https://doi.org/10.6084/m9.figshare.12417881	type strain of the candidate species	
+Eukaryota;Discoba;Jakobida;Histionina;'Jbahamiensis clade'	genus	true				FJ157340		J. bahamiensis does not branch with genus Jakoba	
+Eukaryota;Discoba;Jakobida;Histionina;'Jbahamiensis clade';'Jakoba bahamiensis'	species	true			Jakoba bahamensis			not formally described, but forms a distinct genetic lineage in Histionina	
+Eukaryota;Discoba;Jakobida;Histionina;'Jbahamiensis clade';'Jakoba bahamiensis';strain ATCC-50695					strain BHBA-1	AY236972; DQ005449; DQ005450; FJ807240; KC353354	EP00692; https://doi.org/10.6084/m9.figshare.12417881	type strain of the candidate species	
+Eukaryota;Discoba;Jakobida;Andalucina	suborder		Cavalier-Smith 2013						https://doi.org/10.1016/j.ejop.2012.06.001
+Eukaryota;Discoba;Jakobida;Andalucina;Andaluciidae	family		Cavalier-Smith 2013					only one described genus Andalucia in this group, but contains environmental lineages of unknown morphology	https://doi.org/10.1016/j.ejop.2012.06.001
+Eukaryota;Discoba;Jakobida;Andalucina;Andaluciidae;Andalucia	genus					KX765984; KX765990			https://doi.org/10.1111/j.1550-7408.2005.00081.x
+Eukaryota;Discoba;Jakobida;Andalucina;Andaluciidae;Andalucia;Andalucia godoyi	species								https://doi.org/10.1111/j.1550-7408.2005.00081.x
+Eukaryota;Discoba;Jakobida;Andalucina;Andaluciidae;Andalucia;Andalucia godoyi;strain AND28					strain ATCC-PRA-185	AY965870; EU334873-EU334880; KC353352; KP324909-KP324912; KP738110; KR230048; KR230049; KU522221; MG905949	EP00762; https://doi.org/10.6084/m9.figshare.12417881		
+Eukaryota;Discoba;Jakobida;Andalucina;Andaluciidae;Andalucia;'AND19 lineage'	species	true							
+Eukaryota;Discoba;Jakobida;Andalucina;Andaluciidae;Andalucia;'AND19 lineage';strain AND19						AY965865			
+Eukaryota;Discoba;Jakobida;Andalucina;Andaluciidae;'ANDA-1 clade'	genus	true				JX296584-JX296589; KX765992; KX766002		entirely environmental lineage so far	
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae	family		Pánek, Táborský & Čepička in Pánek et al. 2015						https://doi.org/10.3389/fmicb.2015.01288
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella	genus		Pánek, Táborský & Čepička in Pánek et al. 2015			KJ003952			https://doi.org/10.3389/fmicb.2015.01288
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella incarcerata	species		(Bernard, Simpson & Patterson 2000) Pánek et al. 2015	Jakoba incarcerata; Andalucia incarcerata		AY916609; AY916610; DQ310296; HQ866864; HQ866882; HQ866892; HQ866903; HQ866907; HQ866917; HQ866984; HQ867011; HQ867032; HQ867049; HQ867075; HQ867111; HQ867113; HQ867155; HQ867156; HQ869827; HQ870009; HQ870103; HQ870873; HQ870990; HQ871029; HQ871108; HQ871119		type species of the genus	https://doi.org/10.1080/00785236.1999.10409422
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella incarcerata;strain Quibray-Bay-2000						AF267179; AF267183; AY117419		type strain of the species	
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella incarcerata;strain MB1						EU334881-EU334887; KP258196-KP258200; KT984512-KT984652; KU095855; KU169129-KU169145; KX235360-KX235517			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella incarcerata;strain COORONG						KP144403			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella incarcerata;strain EVROS1I						KP144404			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella incarcerata;strain EVROS1T						KP144405			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella incarcerata;strain GOUVIA						KP144406			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella incarcerata;strain KALOGRIA						KP144407			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella incarcerata;strain NORMAR						KP144408			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella incarcerata;strain OROSEI						KP144409			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella adhaerens	species		Pánek, Táborský & Čepička in Pánek et al. 2015						https://doi.org/10.3389/fmicb.2015.01288
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella adhaerens;strain PETROCHORI						KP144401		type strain of the species	
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella adhaerens;strain LARNAKA2N						KP144400			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella adhaerens;strain COORONG2						KP144399			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella agilis	species		Pánek, Táborský & Čepička in Pánek et al. 2015			FJ352774			https://doi.org/10.3389/fmicb.2015.01288
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella agilis;strain AND						KP144396		type strain of the species	
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella agilis;strain IGO3						KP144397			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella agilis;strain MANG						KP144398			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella cryptica	species		Pánek, Táborský & Čepička in Pánek et al. 2015						https://doi.org/10.3389/fmicb.2015.01288
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella;Stygiella cryptica;strain PC1						KP144390; KP144402		type strain of the species	
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Velundella	genus		Pánek, Táborský & Čepička in Pánek et al. 2015						https://doi.org/10.3389/fmicb.2015.01288
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Velundella;Velundella trypanoides	species		Pánek, Táborský & Čepička in Pánek et al. 2015			AY046649		type species of the genus	https://doi.org/10.3389/fmicb.2015.01288
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Velundella;Velundella trypanoides;strain LUC3N						KP144389; KP144391; KP144395		type strain of the species	
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Velundella;Velundella trypanoides;strain BUSSPRAND						KP144393			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Velundella;Velundella trypanoides;strain LARNAKA						KP144394			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Velundella;Velundella nauta	species		Pánek, Táborský & Čepička in Pánek et al. 2015						https://doi.org/10.3389/fmicb.2015.01288
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Velundella;Velundella nauta;strain BMAND					strain BMT	KP144392		type strain of the species	
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;'STYG-1 clade'	genus	true				DQ103829; DQ310259; DQ310279; EF526735; EF526837; EF527199; FJ153625; FJ153626; FJ153628; FJ153635; FJ153654; FJ153669; FJ153676; FJ153678; FJ153679; FJ153681-FJ153684; FJ153686; FJ153717		entirely environmental lineage so far	
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;'STYG-2 clade'	genus	true				DQ310269; DQ310295; HM749957; JF308256		entirely environmental lineage so far	
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;'STYG-3 clade'	genus	true				EU446352; EU446381; EU446382		entirely environmental lineage so far	
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;'STYG-4 clade'	genus	true				EF526967; EF526971; EF526978; FJ153627; FJ153628; FJ153633; FJ153634; FJ153643; FJ153654; FJ153658; FJ153659; FJ153661-FJ153665; FJ153673; FJ153675; FJ153685; FJ153688; FJ153725; FJ153727		entirely environmental lineage so far	

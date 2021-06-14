@@ -1,0 +1,457 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea	class		Stein 1859					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum	genus		Stein 1859		Climacostomidae			single genus Climacostomum in family Climacostomidae Repak 1972
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum;'bLPN1 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum;'bLPN1 lineage';strain bLPN1						LN870010		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum;'bLPN1 lineage';strain CY2018041901						MT175506		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum;'bLPN1 lineage';strain CY2018110901						MT175507		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum;Climacostomum virens	species		Ehrenberg 1833	Spirostomum virens				type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum;Climacostomum virens;strain Bernhard-1992						X65152		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum;Climacostomum virens;strain Fernandes-2015						KP970234		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum;Climacostomum virens;strain StockW-24							EP00359; https://doi.org/10.6084/m9.figshare.12417881	
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum;Climacostomum virens;strain Tue2015_Clim						MH822304		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum;'Cvirens2 lineage'	species	true						morphologically identified as C. virens but genetically distinct
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum;'Cvirens2 lineage';strain Miao-2008						EU583990		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Climacostomum;'Cvirens2 lineage';strain SKS072						KJ651814		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae	family		Kahl 1929 in Doflein & Reichenow 1929					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade'								18S-based group; Chattonidium, Condylostentor and Condylostoma form a well-supported clade
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group'	genus	true				JX268805; JX268818; JX268881; JX268883; JX268939; JX268958		candidate genus (unless it contains the type species of Condylostoma)
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';Condylostoma arenarium	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';Condylostoma arenarium;strain Fernandes-2011						JQ282895		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';Condylostoma curvum	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';Condylostoma curvum;strain CC1						KX138647		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';Condylostoma curvum;strain Guo-2008						EU379939		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';Condylostoma kris	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';Condylostoma kris;strain 1-CXR08040802						FJ998021		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';Condylostoma kris;strain 2011121615						MT175513		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';Condylostoma kris;strain 2-WYG2007122602						FJ998022		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';Condylostoma kris;strain CA1-arenarium						KX099187		identified as C. arenarium
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';Condylostoma kris;strain CY2019011601						MT175508		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';Condylostoma kris;strain PXM10121007						MT175512		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';'CXM08110905 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';'CXM08110905 lineage';strain CXM08110905						FJ868179		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';'CXM08110905 lineage';strain SKS309						KJ651827		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';'Poe2.2 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Ccurvum group';'Poe2.2 lineage';strain Poe2.2						AM295496		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';Chattonidium	genus		Villeneuve 1937					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';Chattonidium;Chattonidium setense	species		Villeneuve 1937					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';Chattonidium;Chattonidium setense;strain Petroni-2006						AM295495		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group'								candidate genus (unless it contains the type species of Condylostoma)
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma elongatum	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma elongatum;strain YY2012112307						KJ866148		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma magnum	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma magnum;strain COL2							EP00360; https://doi.org/10.6084/m9.figshare.12417881	
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma magnum;strain XY2009041405						KM222108		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma minutum	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma minutum;strain CMI1						KX138648		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma minutum;strain Guo-2006						DQ822482		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma minutum;strain QZS2013032901						MT175510		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma minutum;strain SKS092S153						KJ651815		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma reichi	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma reichi;strain 2011121606						MT175514		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma spatiosum	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma spatiosum;strain CS1						KX138649		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma spatiosum;strain CXR2007050901						MT175511		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma spatiosum;strain Guo-2006						DQ822483		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';Condylostoma spatiosum;strain KR-09122402						HM140390		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';'CXM08110901 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';'CXM08110901 lineage';strain CXM08110901						FJ868178		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';'CXR07041101 lineage'	species	true				AB505481		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';'CXR07041101 lineage';strain CXR07041101						MT175509		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';'SUAS-2014 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';'Cminutum group';'SUAS-2014 lineage';strain SKS314						KJ651816		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';Condylostentor	genus		Jankowski 1978					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';Condylostentor;Condylostentor auriculatus	species		Kahl 1932	Stentor auriculatus; Condylostoma auricula				type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';Condylostentor;Condylostentor auriculatus;strain CY2019041201						MT175515		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';Condylostentor;Condylostentor auriculatus;strain Fernandes-2015						KP970235		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';Condylostentor;Condylostentor auriculatus;strain Miao-2006						DQ445605		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';Condylostoma	genus		Bory 1824					polyphyletic genus; type species not yet sequenced
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'3C clade';Condylostoma;Condylostoma patense	species			Kondyliostoma patensis				type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade'								18S-based group; Condylostomides and Linostomella form a well-supported clade
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Condylostomides	genus		Silva Neto 1994					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Condylostomides;Condylostomides etoschensis	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Condylostomides;Condylostomides etoschensis;strain FL1						MK543444		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Condylostomides;Condylostomides etoschensis;strain FL2						MK543442		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Condylostomides;Condylostomides etoschensis;strain FL3						MK543443		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Condylostomides;Condylostomides grolieri	species							type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Condylostomides;'SLS-2007 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Condylostomides;'SLS-2007 lineage';strain NMF-2015						KP970236		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Condylostomides;'SLS-2007 lineage';strain SLS-2007						AM713188		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Linostomella	genus		Aescht 1999 in Foissner et al. 1999	Linostoma		FJ765378		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Linostomella;Linostomella vorticella	species		(Ehrenberg 1833) Aescht 1999 in Foissner et al. 1999	Bursaria vorticella				type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Linostomella;Linostomella vorticella;strain CY2019010501						MN783328		voucher material
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Linostomella;'YY2012052201 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Linostomella;'YY2012052201 lineage';strain aPFEU1						LN869952		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Linostomella;'YY2012052201 lineage';strain cPFEU1						LN870136		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Condylostomatidae;'CL clade';Linostomella;'YY2012052201 lineage';strain YY2012052201						MT175516		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia	genus		Kahl 1932		Gruberiidae			single genus Gruberia in family Gruberiidae Shazib et al. 2014
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia;Gruberia binucleata	species		Dragesco 1960					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia;Gruberia foissneri	species		Chi et al. 2020					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia;Gruberia foissneri;strain CY2018122001						MN783327		type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia;Gruberia lanceolata	species		(Gruber 1884) Kahl 1932					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia;Gruberia lanceolata;strain Campello-Nunes-2017						MF498874		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia;Gruberia lanceolata;strain FXP09051702						MT175519		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia;Gruberia lanceolata;strain Hirt-1995						L31517		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia;Gruberia lanceolata;strain SKS1057						MH024390		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia;Gruberia lanceolata;strain SKS307S308						KJ651818		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia;Gruberia lanceolata;strain SKS789						KX119520		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia;Gruberia lanceolata;strain SKS793						KX119521		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Gruberia;Gruberia uninucleata	species		Kahl 1932					type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Peritromus	genus		Stein 1863	Spirostomina	Peritromidae	JX268906		single genus Peritromus in family Peritromidae Stein 1867
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Peritromus;'BB2F04 lineage'	species	true				FJ000078		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Peritromus;Peritromus emmae	species							type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Peritromus;Peritromus faurei	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Peritromus;Peritromus faurei;strain Miao-2008						EU583993		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Peritromus;Peritromus kahli	species					DQ103838; DQ103849; DQ103850; EF526730; EF526745; EF526750; EF526753; EF526768; EF526771; EF526774; EF526779; EF526805; EF526819; EF526820; EF526830; JX268876		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Peritromus;Peritromus kahli;strain CRM-2008-11-28-01(SCNU)						GQ926915		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Peritromus;Peritromus kahli;strain CY2018101501						MT175520		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Peritromus;Peritromus kahli;strain Fernandes-2015						KP970237		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Peritromus;Peritromus kahli;strain Petroni-2003						AJ537427		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Peritromus;Peritromus kahli;strain SKS320						KJ651830		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade'					stentorids (Miao et al. 2005)			18S-based group (Chi et al. 2020); Stentor, Blepharisma, Fabrea, Maristentor, and folliculinids form a well-supported clade at the exclusion of all other Heterotrichea
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'Bhalophilum lineage'	genus	true						B. halophilum does not branch with genus Blepharisma
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'Bhalophilum lineage';Blepharisma halophilum	species		Ruinen 1938 			KC486050; KC486747; KC486870; KC486928; KC486978; KC487651; KC487669; KC487803		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'Bhalophilum lineage';Blepharisma halophilum;strain Cape-Verde						MF437020		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma	genus		Perty 1849	Apgaria; Compactum; Filiformis; Halteroides; Plagiotricha partim; Trichomecium; Ypsistoma	Blepharismidae			single genus Blepharisma in family Blepharismidae Jankowski in Small & Lynn 1985
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex'								species in this group are not clearly distinguishable by 18S alone
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain BA6						KP970222		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain BAC						KP970223		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_1_4						MF002390		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_1_5						MF002391		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_1_8						MF002392		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_1_Q5_1						MF002385		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_1_Q5_13						MF002388		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_1_Q5_2						MF002386		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_1_Q5_21						MF002389		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_1_Q5_3						MF002387		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_2_Q5_1						MF002393		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_2_Q5_3						MF002394		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_2_Q5_6						MF002395		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_3_9						MF002401		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_3_Q5_1						MF002396		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_3_Q5_16						MF002399		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_3_Q5_17						MF002400		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_3_Q5_7						MF002397		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Ble_3_Q5_8						MF002398		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain CY2018110502						MT175502		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain CY2018110503						MT175503		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Greenwood-1991						M97909		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma americanum;strain Schmidt-2007						AM713182		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma japonicum	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma japonicum;strain AD1						MG994980		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma japonicum;strain BJ						KP970226		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma japonicum;strain BJC						KP970227		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma japonicum;strain BJUK						KP970228		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma japonicum;strain Schmidt-2007						AM713185		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma japonicum;strain Stock-R1072							EP00358; https://doi.org/10.6084/m9.figshare.12417881	
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma musculus	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma musculus;strain MUBM1						MW466723		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma musculus;strain SKS10a						KJ651813		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma sinuosum	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma sinuosum;strain Fernandes-2015						KP970229		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma sinuosum;strain IBZ-UFRJ0015-X						JN627438		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma sinuosum;strain OBS1						MK354013		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma sinuosum;strain OK1						MG995002		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma undulans	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma undulans;strain BU						KP970232		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma undulans;strain BU3						KP970230		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma undulans;strain BU69						KP970231		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma undulans;strain BUC						KP970233		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma undulans;strain FYB2013031304						KR815912		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma undulans;strain JD1						LT628483		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma undulans;strain MUBU1						MW466725		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma undulans;strain Schmidt-2007						AM713183		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';Blepharisma undulans;strain TP2						KY855549		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';strain FYB2013031304						MT175504		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';strain KWBL11						KY855548		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';strain KWBL6						KY855547		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bamericanum complex';strain Y3						MG832820		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'bLdG1 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'bLdG1 lineage';strain bLdG2						LN870005		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;Blepharisma elongatum	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;Blepharisma elongatum;strain Schmidt-2007						AM713186		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;Blepharisma hyalinum	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;Blepharisma hyalinum;strain Fernandes-2015						KP970225		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;Blepharisma hyalinum;strain Schmidt-2007						AM713184		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;Blepharisma persicinum	species		Perty 1849					type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;Blepharisma steini	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;Blepharisma steini;strain BRN						KP970224		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;Blepharisma steini;strain Schmidt-2007						AM713187		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bpenardi complex'								species in this group are not clearly distinguishable by 18S alone
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bpenardi complex';Blepharisma bimicronucleatum	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bpenardi complex';Blepharisma bimicronucleatum;strain SKS800						KX119522		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bpenardi complex';Blepharisma penardi	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bpenardi complex';Blepharisma penardi;strain CY2018110501						MT175501		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bpenardi complex';Blepharisma penardi;strain YY2013102901						KR815913; MT175505		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bpenardi complex';Blepharisma sinicum	species				Blepharisma sp. JJ-2014			
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Blepharisma;'Bpenardi complex';Blepharisma sinicum;strain S001						KF206427		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Fabrea	genus		Henneguy 1890	Bursalinus.	Fabreidae			single genus Fabrea in family Fabreidae Shazib et al. 2014
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Fabrea;Fabrea salina	species		Henneguy 1890					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Fabrea;Fabrea salina;strain FXP2009060201						KM222110		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Fabrea;Fabrea salina;strain LesF						DQ168805		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Fabrea;Fabrea salina;strain Miao-2008						EU583991		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Fabrea;Fabrea salina;strain MMETSP-1345							EP00361; https://doi.org/10.6084/m9.figshare.12417881	
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Fabrea;Fabrea salina;strain SKS247						KJ651817		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Fabrea;Fabrea salina;strain TorF						DQ168806		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade'								18S-based group; Maristentor and folliculinids form a well-supported clade
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae	family		Dons 1914					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Ampullofolliculina	genus		Hadži 1951			JX457420; JX457421		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Ampullofolliculina;Ampullofolliculina lageniformis	species		Hadži 1951					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Ampullofolliculina;Ampullofolliculina lageniformis;strain LBR-201501050401-05						MK775465		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Ampullofolliculina;Ampullofolliculina lageniformis;strain LBR-201501050402-01						MK775460		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Eufolliculina	genus		Hadži 1951					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Eufolliculina;Eufolliculina moebiusi	species		Kahl 1932	Folliculina moebiusi				type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Eufolliculina;Eufolliculina uhligi	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Eufolliculina;Eufolliculina uhligi;strain Lynn-1996						U47620		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Folliculina	genus		Lamarck 1816	Freia partim; Lagotia				
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Folliculina;Folliculina ampulla	species		Müller 1786	Vorticella ampulla				type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Folliculina;strain CXR2007060503						MT175518		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Folliculina;strain WWS-2008						EU583992		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;'Folliculinopsis'	genus	true	Fauré-Fremiet 1935					validity of the name disputed, but forms a distinct genetic lineage
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;'Folliculinopsis';strain CY2019022301						MT175517		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;'JX457419 lineage'	genus	true				JX457419		entirely environmental lineage so far
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Metafolliculina	genus		Dons 1924	Freia partim				
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Metafolliculina;Metafolliculina nordgardi	species		Dons 1924					type species of the genus; no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;Metafolliculina;strain Meta1						KF639911		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Folliculinidae;'SH85D05 lineage'	genus	true				EF688408		entirely environmental lineage so far
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Maristentor	genus		Lobban et al. 2002		Maristentoridae			single genus Maristentor in family Maristentoridae Miao et al. 2005
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Maristentor;Maristentor dinoferus	species		Lobban et al. 2002					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';'MF clade';Maristentor;Maristentor dinoferus;strain Lobban-2002						AY630405; AY368689		type strain of the species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor	genus		Oken 1815	Diceratella; Ecclissa; Lima; Meserellus; Rhabdocaryon; Salpistes; Stentorella; Stentorina; Tubaria	Stentoridae			single genus Stentor in family Stentoridae Carus 1863
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;'AY2009D7 lineage'	species	true				HQ219450		entirely environmental lineage so far
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;'bLdG2 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;'bLdG2 lineage';strain bLdG2						LN870008		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;'CY2019012101 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;'CY2019012101 lineage';strain aTTo1						LN869971		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;'CY2019012101 lineage';strain CY2019012101						MT175528		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;'CY2019012101 lineage';strain DB-2010-cf-katashimai						FN659818		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;'Smultiformis1 lineage'	species	true						one of two lineages morphologically identified as S. multiformis
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;'Smultiformis1 lineage';strain 1-Pegau						FN659821		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;'Smultiformis2 lineage'	species	true						one of two lineages morphologically identified as S. multiformis
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;'Smultiformis2 lineage';strain 2-Liebenwalde						FN659822		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor amethystinus	species					HM135094; HM135098; HM135099		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor amethystinus;strain 3-Duebener-Heide						FN659808		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor amethystinus;strain 4-Averstra						FN659807		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor amethystinus;strain Fernandes-2015						KP970242		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor amethystinus;strain LaG						AY775566		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor amethystinus;strain Pucciarelli-2007						EF492142		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor amethystinus;strain Schmidt-2007						AM713191		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus	species					GU070859		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain 10-Machern						FN659814		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain 11-Markkleeberg						FN659815		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain 12-Spain						FN659816		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain 5-Federsee						FN659809		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain 6-Markkleeberg						FN659810		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain 7-Machern						FN659811		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain 8-Chiemsee						FN659812		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain 9-Droyssig						FN659813		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain aPFEU3						LN869963		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain bLPN3						LN870031		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain cPFEU3						LN870152		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain Fernandes-2011						JQ282899		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain Fernandes-2015						KP970243		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain FYB2013041202						KM222111		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain GgTd						DQ132978		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain KNP3						KY855543		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain ML						LT628482		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain OK-4						MN160208		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain Pnur						DQ136037		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain R176						MN710413		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain Schmidt-2007						AM713189		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain SKS052						KJ651823		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain SKS241						KJ651825		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain STCD						KP970244		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain Stent1						KF639913		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor coeruleus;strain Zhu-2001						AF357145		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor elegans	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor elegans;strain Bernhard-2010						FN659817		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor igneus	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor igneus;strain Fernandes-2015						KP970245		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor igneus;strain NMF-2012						JQ282900		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor muelleri	species		Ehrenberg 1831			AJ130853		type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor muelleri;strain 1-Brazil						FN659820		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor muelleri;strain 1-Cranzahl						FN659819		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor muelleri;strain HK001						KY968737		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor muelleri;strain SKS144						KJ651824		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor polymorphus	species					GU070871		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor polymorphus;strain 3-Cranzahl						FN659823		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor polymorphus;strain Fernandes-2011						JQ282898		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor polymorphus;strain Hoshina-2012						AB727551		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor polymorphus;strain Schmidt-2007						AM713190		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor polymorphus;strain STPUK						KP970246		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor polymorphus;strain Zhu-2001						AF357144		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor pyriformis	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor pyriformis;strain Hachimantai-1204						LC533384		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor pyriformis;strain Jodo-daira-1436						LC533385		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor pyriformis;strain Toriko-daira-1256						LC533386		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor pyriformis;strain Toriko-daira-fresh						LC533387		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor roeselii	species					GU070867; GU070869		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor roeselii;strain 2-Groitzsch						FN659824		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor roeselii;strain 3-Spain						FN659825		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor roeselii;strain Fernandes-2015						KP970247		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor roeselii;strain KNM						LT628481		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor roeselii;strain OK-6						MN160214		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor roeselii;strain SKS240						KJ651826		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor roeselii;strain STRD						KP970248		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor roeselii;strain Zhu-2001						AF357913		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor tartari	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor tartari;strain HK002						KY968738		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor tartari;strain SKS266						KY979516		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor tartari;strain SKS396						KJ651828		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;'SBFMF clade';Stentor;Stentor tartari;strain SKS878						KY979515		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae	family		Stein 1867			JX268942		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Anigsteinia	genus		Isquith 1968			JX268854		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Anigsteinia;Anigsteinia clarissima	species		Isquith 1968					type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Anigsteinia;Anigsteinia clarissima;strain CY2019030101						MT175527		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Anigsteinia;Anigsteinia clarissima;strain FXP2010042201						KM222109		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Anigsteinia;Anigsteinia clarissima;strain YY2012050702						KR815914		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Anigsteinia;Anigsteinia paraclarissima	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Anigsteinia;Anigsteinia paraclarissima;strain FXP09051701						MT175526		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Anigsteinia;Anigsteinia paraclarissima;strain KR-09040702						HM140405		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Anigsteinia;Anigsteinia paraclarissima;strain SKS670						KU848241		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Anigsteinia;Anigsteinia paraclarissima;strain SKS686						KU848242		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Anigsteinia;'RM2-SGM24 lineage'	species	true				AB505532		entirely environmental lineage so far
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum	genus		Ehrenberg 1834	Peltierius; Spirogonella; Spironectum				
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade'								18S-based group
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum dharwarensis	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum dharwarensis;strain FYB2013040805						MT175523		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum dharwarensis;strain Sad						HG939537		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui	species					LC150081		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain 06103102						MT175524		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain CY2018040901						MT175521		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain GNS4						HG939535		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain LarnCyp						HG939533		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain Pozz						HG939536		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SKS071						KU848227; KX119518		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SKS1020						MK688553		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SKS1032						MH460446		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SKS164						MK688545		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SKS165						MK688546		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SKS315						MK688547		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SKS583						MK688548		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SKS787						KX119519		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SKS963						MK688549		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SKS964						MK688550		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SKS977						MK688551		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SKS983						MK688552		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain SpirWS						HG939534		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain YY2013041401						MT175522		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';Spirostomum yagiui;strain ZTY2016110502						MN176348		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';'Steres3 lineage'	species	true						morphologically identified as S. teres but genetically distinct
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';'Steres3 lineage';strain A522						KY855541		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'brackish clade';'Steres3 lineage';strain Mdg3						HG939538		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Pseudoblepharisma tenue	species							based on 18S Pseudoblepharisma would be a junior synonym of Spirostomum and P. tenue should be transfered to this genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Pseudoblepharisma tenue;strain FL1						MK543441		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage'	species	true						morphologically identified as S. minus but genetically distinct
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain 6103103						FJ998026		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain 72						HE664173		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain bLdG1						LN870002		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain CY2018043001						MK929559		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain Fernandes-2011						JQ282896		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain Fernandes-2015						KP970239		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain JD1						LT628484		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain PBG1						HG939547		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS1018						MK688535		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS1044						MK688536		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS1058						MK688537		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS1073						MK688538		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS161						KU848229		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS182						KU848230		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS214						MK688529		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS215						KJ651821		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS255						KU848234		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS386						KU848237		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS731						KU848238		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS743						KU848239		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS794						MK688530		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS840						MK688531		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS939						MK688532		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SKS940						MK688533		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SmPS						HG939546		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Sminus2 lineage';strain SS5						HG939548		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum	species		(Müller 1786) Ehrenberg 1834	Trichoda ambigua				type species of the genus
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain 06103105						MT175525		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain 1S.ambiguum-18S						MT640275		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain 6103104						FJ998027		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain Fernandes-2015						KP970238		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain Hirt-1995						L31518		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain KKR19						KY855542		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain Schmidt-2006						AM398201		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain Seef2						HG939552		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SKS1050						MK688526		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SKS167						KJ651819		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SKS169						MK688527		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SKS184						MK688522		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SKS185						KU848231		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SKS204						KU848232		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SKS254						KU848233		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SKS363						KU848236		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SKS779						KU848240		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SKS947						MK688523		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SKS949						MK688524		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SKS989						MK688525		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SpiAm1						JQ723981		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain Spirot1						KF639912		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum ambiguum;strain SS4-2						HG939551		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum caudatum	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum caudatum;strain SKS302						KJ651820		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum caudatum;strain SKS813						MK688528		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus	species					FN826788; FN826789; FN826837; FN826838; FN826843-FN826845; FN826852; FN826873; FN826876; FN826883; FN826895; FN826896; FN826898; LT993460; LT993462		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain 1-cLPN1						LN870107		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain Gmn						HG939543		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain Ind						HG939544		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain KL						LT628487		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain KS						LT628486		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain KTC14						KY855546		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain Mdg2-2						HG939539		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain Mdg4						HG939540		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain OBS7						MK968523		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain Sam						HG939545		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain Schmidt-2006						AM398200		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain SKS991						MK688534		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain SmJFp1						HG939541		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain SPMPA						KP970240		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain SS03						HG315608		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum minus;strain Thd2						HG939542		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum semivirescens	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum semivirescens;strain Onsbring-2018						MH295830		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum subtilis	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum subtilis;strain 2S.subtilis-18S						MT640276		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum subtilis;strain CY2018050201						MK929558		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum subtilis;strain KN						LT628485		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum subtilis;strain SKS1056						MK688540		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum subtilis;strain SKS937						MK688539		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum subtilis;strain SS4-1						HG939549		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum subtilis;strain Zur3						HG939550		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres	species							
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain 2-cLPN1						LN870108		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain 3S.teres-18S						MT640277		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain cAcq4						LN870095		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain CY2018043002						MK929560		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain Fernandes-2011						JQ282897		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain Fernandes-2015						KP970241		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain IP1						HG939530		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain KTC2						KY855544		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain Mdg2-1						HG939524		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain Nor_BG						HG939527		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain Nor_KD						HG939528		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain PFEU3_Sm2						HG939529		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain Schmidt-2006						AM398199		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain Seef1						HG939525		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain SKS026						MK688541		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain SKS026S085						KJ651822		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain SKS1045						MK688544		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain SKS107						KU848228		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain SKS187						MK688542		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain SKS351						KU848235		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain SKS988						MK688543		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain StJFp2						HG939531		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain StMgN						HG939526		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;Spirostomum teres;strain Tue2015_Spiro						MH822308		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Steres2 lineage'	species	true						morphologically identified as S. teres but genetically distinct
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Steres2 lineage';strain aPFEU2						LN869958		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Steres2 lineage';strain cLPN2						LN870116		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Steres2 lineage';strain cPFEU1						LN870138		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Steres2 lineage';strain PF1a						HG939532		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Spirostomidae;Spirostomum;'Steres2 lineage';strain PFEU1_Spte						HG939553		

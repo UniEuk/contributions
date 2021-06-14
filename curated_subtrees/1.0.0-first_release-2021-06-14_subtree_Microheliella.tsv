@@ -1,0 +1,5 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes	reference
+Eukaryota;Diaphoretickes;Microheliella	genus		Cavalier-Smith & Chao in Yabuki et al. 2012		Microhelida; Microheliellidae			single genus Microheliella in family Microheliellidae and order Microhelida	https://doi.org/10.1016/j.protis.2011.10.001
+Eukaryota;Diaphoretickes;Microheliella;Microheliella maris	species		Cavalier-Smith & Chao in Yabuki et al. 2012					type species of the genus	https://doi.org/10.1016/j.protis.2011.10.001
+Eukaryota;Diaphoretickes;Microheliella;Microheliella maris;strain CCAP-1945/1					strain TCS-2002; strain SvdH-2005	AF534711; AY752992; JN616480; JN859827; JQ245083		type strain of the species	
+Eukaryota;Diaphoretickes;Microheliella;Microheliella maris;strain ZI172						MW054466			

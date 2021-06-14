@@ -1,0 +1,4 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes	reference
+Eukaryota;Diaphoretickes;Ancoracysta	genus		Janouškovec et al. 2017						https://doi.org/10.1016/j.cub.2017.10.051
+Eukaryota;Diaphoretickes;Ancoracysta;Ancoracysta twista	species		Janouškovec et al. 2017					type species of the genus	https://doi.org/10.1016/j.cub.2017.10.051
+Eukaryota;Diaphoretickes;Ancoracysta;Ancoracysta twista;strain TD-1						MG202008-MG202010	EP00164; https://doi.org/10.6084/m9.figshare.12417881	type strain of the species	

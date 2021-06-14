@@ -1,0 +1,4 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes	reference
+Eukaryota;Diaphoretickes;Cryptista;Palpitomonas	genus		Yabuki & Ishida in Yabuki et al. 2010						https://doi.org/10.1016/j.protis.2010.03.001
+Eukaryota;Diaphoretickes;Cryptista;Palpitomonas;Palpitomonas bilix	species		Yabuki & Ishida in Yabuki et al. 2010					type species of the genus	https://doi.org/10.1016/j.protis.2010.03.001
+Eukaryota;Diaphoretickes;Cryptista;Palpitomonas;Palpitomonas bilix;strain NIES-2562						AP017433; AB699879; AB508339-AB508350	EP00297; https://doi.org/10.6084/m9.figshare.12417881	type strain of the species	

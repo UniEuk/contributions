@@ -1,0 +1,25 @@
+taxon	taxon rank	candidate	taxon author	synonyms	alternative names	sequence accs	EukProt ID	notes
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae					Protocruziidia			only one described genus Protocruzia in family Protocruziidae, but contains an environmental lineage of unknown morphology
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;'SGY lineage'	genus	true				KJ760065; KJ762665		entirely environmental lineage so far
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia	genus		Faria et al. 1922					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'106177 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'106177 lineage';strain 106177						AF194409		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'HFCC-186 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'HFCC-186 lineage';strain HFCC-186						MT355145		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'Ptuzeti group'								18S-based group
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'Ptuzeti group';'HFCC-766 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'Ptuzeti group';'HFCC-766 lineage';strain HFCC-766						MT355146		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'Ptuzeti group';Protocruzia adherens	species		(Mansfeld 1923) Kahl 1932					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'Ptuzeti group';Protocruzia adherens;strain Boccale						AY217727; AY217728	EP00357; https://doi.org/10.6084/m9.figshare.12417881	
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'Ptuzeti group';Protocruzia contrax	species		(Mansfeld 1923) Kahl 1932					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'Ptuzeti group';Protocruzia contrax;strain QD04101801						DQ190467; EF198665; KM222050; KM222144		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'Ptuzeti group';Protocruzia tuzeti	species		Villeneuve-Brachon 1940					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'Ptuzeti group';Protocruzia tuzeti;strain JJM2009042205						KU500620		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'X65153 lineage'	species	true						
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;'X65153 lineage';strain Bernhard-1992						X65153; AJ004701; AJ004709; AJ004710		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;Protocruzia chesapeakensis	species		Small & Lynn 1985					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;Protocruzia depressa	species		Ammermann 1968					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;Protocruzia granulosa	species		Kahl 1933					
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;Protocruzia granulosa;strain JJM2010010703						JF694044; JF694068; JF694081		
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;Protocruzia labiata	species		Kahl 1932					no genetic data yet for this species
+Eukaryota;Diaphoretickes;Sar;Alveolata;Ciliophora;Intramacronucleata;Protocruziidae;Protocruzia;Protocruzia pigerrima	species		(Cohn 1866) Faria et al. 1922	Colpoda pigerrima				type species of the genus; no genetic data yet for this species
