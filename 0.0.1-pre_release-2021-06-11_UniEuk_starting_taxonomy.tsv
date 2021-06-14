@@ -1,7 +1,7 @@
 taxon	taxon rank	candidate	taxon author	synonyms	alternative names	notes
 Eukaryota						
 Eukaryota;'CRuMs'						phylogenomics-based group (Brown et al. 2018)
-Eukaryota;'CRuMs';Mantamonas	genus		Cavalier-Smith & Glücksman in Glücksman et al. 2011		Mantamonadidae; Mantamonadida	single genus Mantamonas in family Mantamonadidae and order Mantamonadida
+Eukaryota;'CRuMs';Mantamonas	genus		Cavalier-Smith & GlÃ¼cksman in GlÃ¼cksman et al. 2011		Mantamonadidae; Mantamonadida	single genus Mantamonas in family Mantamonadidae and order Mantamonadida
 Eukaryota;'CRuMs';Glissandra	genus					no genetic data yet for this genus
 Eukaryota;'CRuMs';'CR clade'						18S-based group; Collodictyonidae and Rigifilida form a well-supported clade at the exclusion of Mantamonas
 Eukaryota;'CRuMs';'CR clade';Collodictyonidae	family		Adl et al. 2019		Diphylleida; Diphyllatea	single family Collodictyonidae in order Diphylleida and class Diphyllatea
@@ -99,7 +99,7 @@ Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea;Mastigamoebida;Mastigina	genus		
 Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea;Pelobiontida	order					
 Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea;Pelobiontida;Mastigella	genus		Frenzel 1897			
 Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea;Pelobiontida;Pelomyxa	genus		Greeff 1874			
-Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea;Rhizomastix	genus		Alexeieff 1911		Rhizomastixidae	single genus Rhizomastix in family Rhizomastixidae Ptá?ková et al. 2013
+Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea;Rhizomastix	genus		Alexeieff 1911		Rhizomastixidae	single genus Rhizomastix in family Rhizomastixidae PtÃ¡?kovÃ¡ et al. 2013
 Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea;Rhizomastix;'Relongata clade'						deep genetic divergence within genus Rhizomastix
 Eukaryota;Amorphea;Amoebozoa;Evosea;Archamoebea;Rhizomastix;'Rlibera clade'						deep genetic divergence within genus Rhizomastix
 Eukaryota;Amorphea;Amoebozoa;Evosea;Cutosea	class		Cavalier-Smith et al. 2016			
@@ -861,7 +861,7 @@ Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Cyanidiales;Cyani
 Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Cyanidiales;Cyanidium	genus					
 Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Cyanidiales;Galdieria	genus					
 Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Eurhodophytina			Saunders & Hommersand 2004			
-Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Eurhodophytina;Bangiales	order		Nägeli 1847		Bangiophyceae	
+Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Eurhodophytina;Bangiales	order		NÃ¤geli 1847		Bangiophyceae	
 Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Eurhodophytina;Bangiales;Bangia	genus		
 Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Eurhodophytina;Bangiales;Boreophyllum	genus		
 Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Eurhodophytina;Bangiales;Clymene	genus		
@@ -981,7 +981,7 @@ Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Eurhodophytina;Fl
 Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Eurhodophytina;Florideophyceae;Rhodymeniophycidae;Inkyuleeaceae	family					
 Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Eurhodophytina;Florideophyceae;Rhodymeniophycidae;Peyssonneliaceae	family					
 Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Eurhodophytina;Florideophyceae;Rhodymeniophycidae;Atractophora	genus					
-Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Proteorhodophytina			Muñoz-Gómez et al. 2017			
+Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Proteorhodophytina			MuÃ±oz-GÃ³mez et al. 2017			
 Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Proteorhodophytina;Compsopogonophyceae						
 Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Proteorhodophytina;Compsopogonophyceae;Compsopogonales	order					
 Eukaryota;Diaphoretickes;Archaeplastida;'PRR clade';Rhodophyta;Proteorhodophytina;Compsopogonophyceae;Compsopogonales;Boldia	genus					
@@ -1559,14 +1559,14 @@ Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida	order		Ad
 Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Alphamonadaceae	family		Adl et al. 2019		Alphamonaceae	
 Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Alphamonadaceae;Alphamonas	genus					only one described genus Alphamonas in this group, but contains environmental lineages of unknown morphology
 Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Alphamonadaceae;'BOLA914 clade'	genus	true				entirely environmental lineage so far
-Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Chromeraceae	family		Oborník & Lukeš 2012			
+Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Chromeraceae	family		ObornÃ­k & LukeÂš 2012			
 Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Chromeraceae;Chromera	genus					
 Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Chromeraceae;'symbiont X'	genus	true				
 Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Colpodellaceae	family		Adl et al. 2019			
 Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Colpodellaceae;Chilovora	genus					no genetic data yet for this genus
 Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Colpodellaceae;Colpodella	genus					
 Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Colpodellaceae;Voromonas	genus					
-Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Vitrellaceae	family		Oborník & Lukeš 2012			
+Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Vitrellaceae	family		ObornÃ­k & LukeÂš 2012			
 Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Vitrellaceae;Vitrella	genus					
 Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;Vitrellaceae;Piridium	genus					
 Eukaryota;Diaphoretickes;Sar;Alveolata;Myzozoa;'AC clade';Colpodellida;'BOLA553 clade'	genus	true				entirely environmental lineage so far
@@ -2180,7 +2180,7 @@ Eukaryota;Diaphoretickes;Sar;Rhizaria;Endomyxa;'zoorhiza';Ascetosporea;Paramyxid
 Eukaryota;Diaphoretickes;Sar;Rhizaria;Endomyxa;'zoorhiza';Ascetosporea;Paramyxida;Paramyxa	genus					
 Eukaryota;Diaphoretickes;Sar;Rhizaria;Endomyxa;'zoorhiza';Ascetosporea;'xHiris lineage'	genus	true				
 Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria			Cavalier-Smith 2002			
-Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera			d’Orbigny 1826			
+Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera			dÂ’Orbigny 1826			
 Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera;Globothalamea	class		Pawlowski et al. 2012			
 Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera;Globothalamea;Carterinida	order					
 Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera;Globothalamea;Robertinida	order					
@@ -2226,7 +2226,7 @@ Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera;Globothalamea;Textula
 Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera;Globothalamea;Leptohyalis	genus		
 Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera;Globothalamea;Reophax	genus		
 Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera;Globothalamea;Zaninettia	genus		
-Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera;Lagenida	order		Delage & Hérouard 1896
+Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera;Lagenida	order		Delage & HÃ©rouard 1896
 Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera;Tubothalamea	class		Pawlowski et al. 2012
 Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera;Tubothalamea;Miliolida	order		
 Eukaryota;Diaphoretickes;Sar;Rhizaria;Retaria;Foraminifera;Tubothalamea;Miliolida;Peneroplidae	family		
@@ -2692,7 +2692,7 @@ Eukaryota;Diaphoretickes;Sar;Stramenopiles;Gyrista;Ochrophyta;Dictyochophyceae;'
 Eukaryota;Diaphoretickes;Sar;Stramenopiles;Gyrista;Ochrophyta;Dictyochophyceae;'PCR clade';Pedinellales;Mesopedinella	genus		
 Eukaryota;Diaphoretickes;Sar;Stramenopiles;Gyrista;Ochrophyta;Dictyochophyceae;'PCR clade';Pedinellales;Pseudopedinella	genus		
 Eukaryota;Diaphoretickes;Sar;Stramenopiles;Gyrista;Ochrophyta;Dictyochophyceae;'PCR clade';Pedinellales;Pteridomonas	genus		
-Eukaryota;Diaphoretickes;Sar;Stramenopiles;Gyrista;Ochrophyta;Dictyochophyceae;'PCR clade';Rhizochromulinales	order		O’Kelly & Wujek 1994
+Eukaryota;Diaphoretickes;Sar;Stramenopiles;Gyrista;Ochrophyta;Dictyochophyceae;'PCR clade';Rhizochromulinales	order		OÂ’Kelly & Wujek 1994
 Eukaryota;Diaphoretickes;Sar;Stramenopiles;Gyrista;Ochrophyta;Dictyochophyceae;'PCR clade';Rhizochromulinales;Rhizochromulina	genus		
 Eukaryota;Diaphoretickes;Sar;Stramenopiles;Gyrista;Ochrophyta;Dictyochophyceae;'PCR clade';Rhizochromulinales;Ciliophrys	genus		
 Eukaryota;Diaphoretickes;Sar;Stramenopiles;Gyrista;Ochrophyta;Eustigmatophyceae	class		
@@ -3110,7 +3110,7 @@ Eukaryota;Discoba;Euglenozoa;Kinetoplastea;Metakinetoplastina;Trypanosomatida;'c
 Eukaryota;Discoba;Euglenozoa;Kinetoplastea;Metakinetoplastina;Trypanosomatida;'core tryps';Strigomonadinae;Angomonas	genus		
 Eukaryota;Discoba;Euglenozoa;Kinetoplastea;Metakinetoplastina;Trypanosomatida;'core tryps';Strigomonadinae;Kentomonas	genus		
 Eukaryota;Discoba;Euglenozoa;Kinetoplastea;Metakinetoplastina;Trypanosomatida;'core tryps';Strigomonadinae;Strigomonas	genus		
-Eukaryota;Discoba;Euglenozoa;Kinetoplastea;Metakinetoplastina;Trypanosomatida;'core tryps';Leishmaniinae			Maslov & Lukeš 2012
+Eukaryota;Discoba;Euglenozoa;Kinetoplastea;Metakinetoplastina;Trypanosomatida;'core tryps';Leishmaniinae			Maslov & LukeÂš 2012
 Eukaryota;Discoba;Euglenozoa;Kinetoplastea;Metakinetoplastina;Trypanosomatida;'core tryps';Leishmaniinae;Crithidia	genus		
 Eukaryota;Discoba;Euglenozoa;Kinetoplastea;Metakinetoplastina;Trypanosomatida;'core tryps';Leishmaniinae;Leptomonas	genus		
 Eukaryota;Discoba;Euglenozoa;Kinetoplastea;Metakinetoplastina;Trypanosomatida;'core tryps';Leishmaniinae;Lotmaria	genus		
@@ -3140,7 +3140,7 @@ Eukaryota;Discoba;Heterolobosea	class		Page & Blanton 1985
 Eukaryota;Discoba;Heterolobosea;'BB2 lineage'	genus	true				
 Eukaryota;Discoba;Heterolobosea;Pharyngomonas	genus				Pharyngomonada	single genus Pharyngomonas in Pharyngomonada Cavalier-Smith 2008
 Eukaryota;Discoba;Heterolobosea;Tetramitia			Cavalier-Smith 1993			
-Eukaryota;Discoba;Heterolobosea;Tetramitia;Eutetramitia			Hanousková et al. 2018			
+Eukaryota;Discoba;Heterolobosea;Tetramitia;Eutetramitia			HanouskovÃ¡ et al. 2018			
 Eukaryota;Discoba;Heterolobosea;Tetramitia;Eutetramitia;Acrasidae	family		Poche 1913		Tetramitia II	
 Eukaryota;Discoba;Heterolobosea;Tetramitia;Eutetramitia;Acrasidae;Acrasis	genus					
 Eukaryota;Discoba;Heterolobosea;Tetramitia;Eutetramitia;Acrasidae;Allovahlkampfia	genus					
@@ -3185,16 +3185,16 @@ Eukaryota;Discoba;Heterolobosea;Tetramitia;Eutetramitia;'TV lineage';Tetramitus	
 Eukaryota;Discoba;Heterolobosea;Tetramitia;Eutetramitia;'TV lineage';Vahlkampfia	genus					
 Eukaryota;Discoba;Heterolobosea;Tetramitia;Eutetramitia;Creneis	genus					
 Eukaryota;Discoba;Heterolobosea;Tetramitia;Eutetramitia;'LPG3 lineage'	genus	true				
-Eukaryota;Discoba;Heterolobosea;Tetramitia;Neovahlkampfiidae	family		Hanousková et al. 2018			only one described genus Neovahlkampfia in this group, but contains environmental lineages of unknown morphology
+Eukaryota;Discoba;Heterolobosea;Tetramitia;Neovahlkampfiidae	family		HanouskovÃ¡ et al. 2018			only one described genus Neovahlkampfia in this group, but contains environmental lineages of unknown morphology
 Eukaryota;Discoba;Heterolobosea;Tetramitia;Neovahlkampfiidae;Neovahlkampfia	genus					
-Eukaryota;Discoba;Heterolobosea;Tetramitia;Selenaionidae	family		Hanousková et al. 2018			
+Eukaryota;Discoba;Heterolobosea;Tetramitia;Selenaionidae	family		HanouskovÃ¡ et al. 2018			
 Eukaryota;Discoba;Heterolobosea;Tetramitia;Selenaionidae;Dactylomonas	genus					
 Eukaryota;Discoba;Heterolobosea;Tetramitia;Selenaionidae;Selenaion	genus					
 Eukaryota;Discoba;Jakobida	order		Cavalier-Smith 1993			
 Eukaryota;Discoba;Jakobida;Andalucina			Cavalier-Smith 2013			
 Eukaryota;Discoba;Jakobida;Andalucina;Andaluciidae	family		Cavalier-Smith 2013			only one described genus Andalucia in this group, but contains environmental lineages of unknown morphology
 Eukaryota;Discoba;Jakobida;Andalucina;Andaluciidae;Andalucia	genus					
-Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae 	family		Pánek et al. 2016			
+Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae 	family		PÃ¡nek et al. 2016			
 Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Stygiella	genus					
 Eukaryota;Discoba;Jakobida;Andalucina;Stygiellidae;Velundella	genus					
 Eukaryota;Discoba;Jakobida;Histionina			Cavalier-Smith 2013			
@@ -3239,7 +3239,7 @@ Eukaryota;Metamonada;'BF clade';Fornicata;'node A clade'						18S-based group; D
 Eukaryota;Metamonada;'BF clade';Fornicata;'node A clade';Dysnectes	genus					
 Eukaryota;Metamonada;'BF clade';Fornicata;'node A clade';'DR group'						18S-based group; Diplomonadida and vertebrate Retortamonas form a well-supported clade
 Eukaryota;Metamonada;'BF clade';Fornicata;'node A clade';'DR group';Diplomonadida	order		Wenyon 1926			
-Eukaryota;Metamonada;'BF clade';Fornicata;'node A clade';'DR group';Diplomonadida;Giardiinae			Kulda & Nohýnková 1978			
+Eukaryota;Metamonada;'BF clade';Fornicata;'node A clade';'DR group';Diplomonadida;Giardiinae			Kulda & NohÃ½nkovÃ¡ 1978			
 Eukaryota;Metamonada;'BF clade';Fornicata;'node A clade';'DR group';Diplomonadida;Giardiinae;Brugerolleia	genus					no genetic data yet for this genus
 Eukaryota;Metamonada;'BF clade';Fornicata;'node A clade';'DR group';Diplomonadida;Giardiinae;Giardia	genus					
 Eukaryota;Metamonada;'BF clade';Fornicata;'node A clade';'DR group';Diplomonadida;Giardiinae;Octomitus	genus					
@@ -3324,7 +3324,7 @@ Eukaryota;Metamonada;Parabasalia;Trichonymphida;Trichonympha	genus
 Eukaryota;Metamonada;Parabasalia;Trichonymphida;Urinympha	genus					
 Eukaryota;Metamonada;Parabasalia;Tritrichomonas	genus					
 Eukaryota;Metamonada;Preaxostyla			Simpson 2003			
-Eukaryota;Metamonada;Preaxostyla;Oxymonadida	order		Grassé 1952			
+Eukaryota;Metamonada;Preaxostyla;Oxymonadida	order		GrassÃ© 1952			
 Eukaryota;Metamonada;Preaxostyla;Oxymonadida;Barroella	genus					no genetic data yet for this genus
 Eukaryota;Metamonada;Preaxostyla;Oxymonadida;Blattamonas	genus					
 Eukaryota;Metamonada;Preaxostyla;Oxymonadida;Brachymonas	genus					no genetic data yet for this genus
